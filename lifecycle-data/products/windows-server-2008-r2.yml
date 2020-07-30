@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 R2
+  description: Windows Server 2008 R2 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823740"
+name: Windows Server 2008 R2
+summary: "Windows Server 2008 R2 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nHal ini berlaku untuk edisi berikut ini: Datacenter, Enterprise, HPC Edition, sistem berbasis Itanium, standar, web\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. Lihat panduan migrasi di bawah. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://aka.ms/AA1ovn4)\n* [Informasi peningkatan server](/windows-server/upgrade/upgrade-overview)\n* [Perpanjangan keamanan program pembaruan (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Perpanjangan keamanan pembaruan (ESU) tersedia melalui program lisensi volume khusus untuk Datacenter, standar, perusahaan dan tertanam edisi produk ini edisi, hingga tambahan tiga tahun melewati akhir dukungan. Hubungi Mitra Microsoft atau tim akun Anda untuk mempelajari lebih lanjut. \n\nRelease-------------------------------tanggal mulai----tanggal akhir\n\nPembaruan keamanan yang diperpanjang tahun 3---01/11/2022---01/10/2023\n\nPembaruan keamanan diperpanjang tahun 2---01/12/2021---01/11/2022\n\nPembaruan keamanan diperpanjang tahun 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Perusahaan\n* Edisi HPC\n* Sistem berbasis Itanium\n* Standar\n* Web"
