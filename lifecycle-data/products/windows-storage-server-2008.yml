@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Penyimpanan Windows Server 2008
+  description: Penyimpanan Windows Server 2008 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822853"
+name: Penyimpanan Windows Server 2008
+summary: >
+  Penyimpanan Windows Server 2008 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: dasar, dasar 32-bit, dasar 64-bit, tertanam dasar, dasar tertanam 32-bit, Enterprise, Enterprise Embedded, standar, standar, Embedded, Workgroup
+
+
+  > [!IMPORTANT]
+
+  > Produk ini telah mencapai akhir dukungan. Lihat di bawah untuk panduan migrasi.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informasi peningkatan server](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edisi \n* Dasar\n* Dasar 32-bit\n* Dasar 64-bit\n* Tertanam dasar\n* 32 dasar tertanam-bit\n* Perusahaan\n* Perusahaan tertanam\n* Standar\n* Standar tertanam\n* Workgroup"

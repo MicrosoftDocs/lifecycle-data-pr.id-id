@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2003
+  description: Microsoft Office 2003 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823179"
+name: Microsoft Office 2003
+summary: >+
+  Microsoft Office 2003 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: dasar, profesional, perusahaan profesional, usaha kecil, standar, siswa dan guru, komponen Web
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/17/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 09/18/2007
+  endDate: 04/08/2014
+- version: Service Pack 2
+  startDate: 09/26/2005
+  endDate: 10/14/2008
+- version: Service Pack 1
+  startDate: 07/27/2004
+  endDate: 10/10/2006
+- version: Original Release
+  startDate: 11/17/2003
+  endDate: 07/27/2005
+content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Dasar\n* Profesional\n* Perusahaan profesional\n* Usaha kecil\n* Standar\n* Siswa dan guru\n* Komponen Web"

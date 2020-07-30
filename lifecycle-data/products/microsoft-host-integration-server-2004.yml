@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Server integrasi Microsoft host 2004
+  description: Microsoft host Integration Server 2004 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823194"
+name: Server integrasi Microsoft host 2004
+summary: "Microsoft host Integration Server 2004 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nHal ini berlaku untuk edisi berikut: pengembang, perusahaan, standar\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/30/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 08/15/2007
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 10/30/2004
+  endDate: 07/14/2008
+content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Pengembang\n* Perusahaan\n* Standar"
