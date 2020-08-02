@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Fundamental Windows untuk PC legasi
+  description: Fundamental Windows untuk PC Legacy mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822864"
+name: Fundamental Windows untuk PC legasi
+summary: >+
+  Fundamental Windows untuk PC Legacy mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2006
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 05/31/2006
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Produk ini mengikuti kebijakan siklus hidup dukungan yang sama seperti Windows XP."
