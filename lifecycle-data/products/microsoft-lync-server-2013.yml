@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Server 2013
+  description: Microsoft Lync Server 2013 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823180"
+name: Microsoft Lync Server 2013
+summary: >+
+  Microsoft Lync Server 2013 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: perusahaan, kit pengembangan perangkat lunak obrolan persisten, telepon, SDK, standar
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Link \n* [Informasi produk](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Edisi telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk edisi telepon Lync telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup 2013 Lync Server.\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Kit pengembangan perangkat lunak obrolan persisten\n* Ponsel\n* Sdk\n* Standar"

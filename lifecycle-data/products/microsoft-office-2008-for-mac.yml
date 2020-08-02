@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2008 untuk Mac
+  description: Microsoft Office 2008 untuk Mac mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823174"
+name: Microsoft Office 2008 untuk Mac
+summary: "Microsoft Office 2008 untuk Mac mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nHal ini berlaku untuk edisi berikut: Bisnis, rumah dan mahasiswa, khusus media Editon\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/15/2008
+  end: 04/09/2013
+releases:
+- version: Service Pack 2
+  startDate: 07/20/2009
+  endDate: 04/09/2013
+- version: Service Pack 1
+  startDate: 05/13/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 01/15/2008
+  endDate: 10/19/2009
+content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tanggal mulai untuk Office 2008 untuk Mac khusus media Edition adalah 12 Maret 2008.\n\n## <a name=\"editions\"></a>Edisi \n* Bisnis\n* Rumah dan siswa\n* Khusus media Editon"
