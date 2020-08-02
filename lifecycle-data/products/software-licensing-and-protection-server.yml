@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Server perizinan dan perlindungan perangkat lunak
+  description: Server perizinan dan perlindungan perangkat lunak mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822902"
+name: Server perizinan dan perlindungan perangkat lunak
+summary: >
+  Server perizinan dan perlindungan perangkat lunak mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut: Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > Karena divestasi perangkat lunak lisensi dan perlindungan server (SLPS), Microsoft didukung SLPS hingga 24 September 2009.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Link \n* [Server perijinan dan perlindungan perangkat lunak (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Standar"

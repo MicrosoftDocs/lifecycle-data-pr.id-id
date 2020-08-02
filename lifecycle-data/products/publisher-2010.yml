@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Penerbit 2010
+  description: Penayang 2010 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: edb6c6caacc0e7d246a043d454934fe19b72fa52
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822892"
+name: Penerbit 2010
+summary: >+
+  Penayang 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: standar
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Standar"

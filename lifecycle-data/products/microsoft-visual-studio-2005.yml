@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "822901"
+name: Microsoft Visual Studio 2005
+summary: >+
+  Microsoft Visual Studio 2005 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: profesional, standar, Standard Edition lisensi akademik, edisi tim untuk database profesional, edisi tim untuk arsitek perangkat lunak, edisi tim untuk pengembang perangkat lunak, edisi tim untuk penguji perangkat lunak, suite tim, tim pengujian beban agen, alat untuk sistem Microsoft Office, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Link \n* [Informasi dukungan Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Panduan migrasi](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informasi produk Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Dukungan untuk produk ini telah berakhir. Lihat di bawah untuk panduan migrasi.\n> [!NOTE]\n> Microsoft Visual Studio 2005 edisi tim untuk database Professionals dirilis pada tanggal 2 Maret 2007.\n\n## <a name=\"editions\"></a>Edisi \n* Profesional\n* Standar\n* Lisensi akademik edisi standar\n* Edisi tim untuk profesional database\n* Edisi tim untuk arsitek perangkat lunak\n* Edisi tim untuk pengembang perangkat lunak\n* Edisi tim untuk penguji perangkat lunak\n* Suite tim\n* Tim uji beban agen\n* Alat untuk sistem Microsoft Office\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
