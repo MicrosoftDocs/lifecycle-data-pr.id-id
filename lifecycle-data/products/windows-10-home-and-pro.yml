@@ -1,0 +1,60 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 rumah dan Pro
+  description: Windows 10 Home dan Pro mengikuti kebijakan siklus hidup modern.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
+  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "879171"
+name: Windows 10 rumah dan Pro
+summary: >
+  Windows 10 Home dan Pro mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+
+
+  Hal ini berlaku untuk edisi berikut: Home, Pro, Pro for Education, Pro for workstation, Professional
+
+
+  > [!IMPORTANT]
+
+  > Microsoft akan terus mendukung setidaknya satu Windows 10 semi-tahunan saluran sampai 14 Oktober 2025.
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Version 2004
+  startDate: 05/27/2020
+  endDate: 12/14/2021
+- version: Version 1909
+  startDate: 11/12/2019
+  endDate: 05/11/2021
+- version: Version 1903
+  startDate: 05/21/2019
+  endDate: 12/08/2020
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 05/12/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+- version: Version 1703
+  startDate: 04/05/2017
+  endDate: 10/09/2018
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/10/2018
+- version: Version 1511
+  startDate: 11/10/2015
+  endDate: 10/10/2017
+- version: Version 1507
+  startDate: 07/29/2015
+  endDate: 05/09/2017
+content: "\n## <a name=\"links\"></a>Link \n* [Windows sebagai layanan (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Lembar fakta siklus hidup Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [FAQ siklus hidup-produk Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro untuk workstation pertama dirilis dengan versi 1703\n> [!NOTE]\n> Kecuali ditangguhkan, pembaruan fitur Windows 10 semi-tahunan saluran berikutnya mungkin diinstal sebelum terdaftar akhir tanggal dukungan mainstream.\n\n## <a name=\"editions\"></a>Edisi \n* Rumah\n* Pro\n* Pro untuk pendidikan\n* Pro untuk workstation\n* Profesional"
