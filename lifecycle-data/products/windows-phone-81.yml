@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Telepon 8,1
+  description: Windows Phone 8,1 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856514"
+name: Windows Telepon 8,1
+summary: >
+  Windows Phone 8,1 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Dukungan untuk produk ini telah berakhir.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Link \n* [Windows Phone 8,1 pertanyaan umum](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft akan membuat pembaruan yang tersedia untuk sistem operasi, termasuk pembaruan keamanan, untuk minimum 36 bulan setelah tanggal mulai siklus hidup. Pembaruan ini akan inkremental, dengan setiap pembaruan yang dibuat di pembaruan yang mendahuluinya. Pelanggan perlu menginstal setiap update agar tetap didukung. Distribusi pembaruan ini inkremental dapat dikontrol oleh operator seluler atau produsen ponsel dari mana Anda membeli ponsel Anda, dan instalasi akan memerlukan bahwa telepon Anda memiliki update sebelumnya. Ketersediaan pembaruan juga akan bervariasi menurut negara, wilayah, dan kemampuan perangkat keras."
