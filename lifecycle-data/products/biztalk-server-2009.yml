@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk Server 2009
+  description: BizTalk Server 2009 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823787"
+name: BizTalk Server 2009
+summary: >
+  BizTalk Server 2009 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: cabang, pengembang, perusahaan, standar
+
+
+  > [!IMPORTANT]
+
+  > Dukungan untuk produk ini telah berakhir. Lihat panduan migrasi di bawah.
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informasi versi](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Cabang\n* Pengembang\n* Perusahaan\n* Standar"
