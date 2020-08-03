@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2012
+  description: Windows Server 2012 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856682"
+name: Windows Server 2012
+summary: >+
+  Windows Server 2012 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut: Datacenter, Essentials, untuk Embedded Systems, Foundation, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/windows-server/upgrade/upgrade-overview)\n* [Informasi produk](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Dukungan mainstream dan diperpanjang untuk produk ini telah diperpanjang untuk menyediakan pelanggan dengan Timeline transisi siklus hidup standar. Windows Server Essentials dirilis pada tanggal 2 Januari 2013.\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Penting\n* untuk Embedded Systems\n* Foundation\n* Standar"

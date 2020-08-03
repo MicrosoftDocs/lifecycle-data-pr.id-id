@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Telepon 7,8
+  description: Windows Phone 7,8 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856686"
+name: Windows Telepon 7,8
+summary: >
+  Windows Phone 7,8 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Dukungan untuk produk ini telah berakhir.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/09/2013
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 02/09/2013
+  endDate: 10/14/2014
+content: "\n\n> [!NOTE]\n> Microsoft akan membuat pembaruan yang tersedia untuk sistem operasi pada ponsel Anda, termasuk pembaruan keamanan, untuk jangka waktu 18 bulan setelah tanggal mulai siklus hidup. Distribusi pembaruan dapat dikontrol oleh operator seluler atau produsen ponsel tempat Anda membeli ponsel. Ketersediaan pembaruan juga akan bervariasi menurut negara, wilayah, dan kemampuan perangkat keras."
