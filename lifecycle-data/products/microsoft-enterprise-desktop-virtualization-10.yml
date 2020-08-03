@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Enterprise desktop virtualisasi 1,0
+  description: Microsoft Enterprise desktop virtualisasi 1,0 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823521"
+name: Microsoft Enterprise desktop virtualisasi 1,0
+summary: >
+  Microsoft Enterprise desktop virtualisasi 1,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: perusahaan
+
+
+  > [!IMPORTANT]
+
+  > Dukungan untuk produk ini telah berakhir. Lihat panduan migrasi di bawah.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/03/2008
+  end: 10/08/2013
+  extendedEnd: 10/09/2018
+releases:
+- version: Service Pack 1
+  startDate: 02/01/2010
+  endDate: 10/09/2018
+- version: Original Release
+  startDate: 08/03/2008
+  endDate: 04/12/2011
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan"
