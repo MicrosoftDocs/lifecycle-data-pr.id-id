@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Solusi Bisnis Microsoft--Great Plains 8,0
+  description: Solusi Bisnis Microsoft--Great Plains 8,0 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823557"
+name: Solusi Bisnis Microsoft--Great Plains 8,0
+summary: >
+  Solusi Bisnis Microsoft--Great Plains 8,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: standar
+
+
+  > [!IMPORTANT]
+
+  > Dukungan untuk produk ini telah berakhir Oktober 13, 2009
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/01/2004
+  end: 10/13/2009
+releases:
+- version: Original Release
+  startDate: 06/01/2004
+  endDate: 10/13/2009
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Standar"

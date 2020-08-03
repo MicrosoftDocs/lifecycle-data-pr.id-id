@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualisasi aplikasi Microsoft 4,5
+  description: 4,5 virtualisasi aplikasi Microsoft mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823592"
+name: Virtualisasi aplikasi Microsoft 4,5
+summary: >
+  Virtualisasi aplikasi Microsoft 4,5 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: untuk layanan terminal, untuk Windows Desktop
+
+
+  > [!IMPORTANT]
+
+  > Dukungan untuk produk ini telah berakhir. Lihat panduan migrasi di bawah.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Sejak App-V 4,6 klien menggunakan App-V 4,5 server, App-V 4,5 server akan terus didukung sesuai dengan tanggal siklus hidup App-V 4,6 ketika digunakan dengan didukung App-V 4,6 klien.\n\n## <a name=\"editions\"></a>Edisi \n* untuk layanan Terminal\n* untuk Windows Desktop"
