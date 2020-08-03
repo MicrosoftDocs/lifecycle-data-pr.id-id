@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "823741"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: Datacenter, Datacenter tanpa Hyper-V, Enterprise, Enterprise tanpa Hyper-V, sistem berbasis Itanium, Foundation, standar, standar tanpa Hyper-V, web
+
+
+  > [!IMPORTANT]
+
+  > Dukungan untuk produk ini telah berakhir. Lihat panduan migrasi di bawah.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://aka.ms/AA1ovn4)\n* [Informasi peningkatan server](/windows-server/upgrade/upgrade-overview)\n* [Perpanjangan keamanan program pembaruan (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Perpanjangan keamanan pembaruan (ESU) tersedia melalui program lisensi volume khusus untuk Datacenter, standar, perusahaan dan tertanam edisi produk ini edisi, hingga tambahan tiga tahun melewati akhir dukungan. Hubungi Mitra Microsoft atau tim akun Anda untuk mempelajari lebih lanjut. \n\nRelease-------------------------------tanggal mulai----tanggal akhir\n\nPembaruan keamanan yang diperpanjang tahun 3---01/11/2022---01/10/2023\n\nPembaruan keamanan diperpanjang tahun 2---01/12/2021---01/11/2022\n\nPembaruan keamanan diperpanjang tahun 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation dirilis pada 21 Mei 2009\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Datacenter tanpa Hyper-V\n* Perusahaan\n* Perusahaan tanpa Hyper-V\n* untuk sistem berbasis Itanium\n* Foundation\n* Standar\n* Standar tanpa Hyper-V\n* Web"
