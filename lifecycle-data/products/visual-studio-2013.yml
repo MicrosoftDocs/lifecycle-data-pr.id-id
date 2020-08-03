@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856695"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut: agen, semua, komunitas, Express untuk web, Express untuk Windows, Express untuk Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, remote Tools, SDK, Shell (terpadu), Shell (terisolasi), tim penjelajah, uji profesional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Link \n* [Layanan informasi](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Agen\n* Semua\n* Comunity\n* Express untuk web\n* Express untuk Windows\n* Express untuk Windows Desktop\n* IntelliTrace kolektor\n* Pemodelan SDK\n* Multibyte MFC Perpustakaan\n* Premium\n* Profesional\n* Manajemen rilis\n* Alat jarak jauh\n* Sdk\n* Shell (terpadu)\n* Shell (terisolasi)\n* Tim penjelajah\n* Uji profesional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools ekstensi"
