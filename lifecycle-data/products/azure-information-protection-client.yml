@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Klien perlindungan informasi Azure
+  description: Klien perlindungan informasi Azure mengikuti kebijakan siklus hidup modern.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856212"
+name: Klien perlindungan informasi Azure
+summary: >+
+  Klien perlindungan informasi Azure mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Link \n* [Layanan informasi](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Untuk memberikan pengalaman pelanggan terpadu dan efisien, klien perlindungan informasi Azure (klasik) dan manajemen label di Azure portal akan dihentikan pada 31 Maret 2021. Kerangka waktu ini memungkinkan semua pelanggan perlindungan informasi Azure saat ini beralih ke solusi pelabelan terpadu kami menggunakan platform perlindungan informasi Microsoft Terpadu pelabelan."

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Small Business Server 2011
+  description: Windows Small Business Server 2011 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856421"
+name: Windows Small Business Server 2011
+summary: >
+  Windows Small Business Server 2011 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut: Essentials, Premium Add-on, standar
+
+
+  > [!IMPORTANT]
+
+  > Tanggal dukungan untuk paket produk ini ditentukan oleh siklus masing-masing produk komponen masing-masing. Harap Tinjau siklus hidup produk komponen individual untuk menentukan panjang dukungannya.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://aka.ms/AA1ovn4)\n* [Bermigrasi Windows Small Business Server 2011 standar untuk Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Edisi \n* Penting\n* Premium Add-on\n* Standar"

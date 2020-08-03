@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Koleksi ruang kerja Azure Power BI
+  description: Azure Power BI Workspace Collection mengikuti kebijakan siklus hidup modern.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856224"
+name: Koleksi ruang kerja Azure Power BI
+summary: >
+  Azure Power BI Workspace Collection mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+
+
+
+  > [!IMPORTANT]
+
+  > Dukungan telah berakhir. Lihat panduan migrasi di bawah.
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 03/31/2016
+  end: 07/30/2018
+releases:
+- version: Original Release
+  startDate: 03/31/2016
+  endDate: 07/30/2018
+content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

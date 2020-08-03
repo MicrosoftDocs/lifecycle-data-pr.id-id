@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office untuk Mac 2011
+  description: Microsoft Office untuk Mac 2011 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856323"
+name: Microsoft Office untuk Mac 2011
+summary: >+
+  Microsoft Office untuk Mac 2011 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut: akademik, rumah dan bisnis, rumah dan program penggunaan rumah bisnis, rumah dan siswa, standar
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Service Pack 3
+  startDate: 01/29/2013
+  endDate: 10/10/2017
+- version: Service Pack 2
+  startDate: 04/12/2012
+  endDate: 04/08/2014
+- version: Service Pack 1
+  startDate: 04/15/2011
+  endDate: 07/09/2013
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 01/10/2012
+content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan mainstream untuk Microsoft Office untuk Mac 2011 diperpanjang seperti yang ditunjukkan dalam rangka untuk menyediakan semua pelanggan dengan waktu transisi siklus hidup standar.\n\n## <a name=\"editions\"></a>Edisi \n* Akademik\n* Rumah dan bisnis\n* Home dan Business Home Gunakan program\n* Rumah dan siswa\n* Standar"

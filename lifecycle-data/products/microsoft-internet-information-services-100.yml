@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Layanan informasi Microsoft Internet 10,0
+  description: Microsoft Internet Information Services 10,0 mengikuti kebijakan siklus hidup komponen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856350"
+name: Layanan informasi Microsoft Internet 10,0
+summary: >+
+  Microsoft Internet Information Services 10,0 mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/12/2016
+  end: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 10/12/2016
+  endDate: 01/11/2027
+content: "\n\n> [!NOTE]\n> Rilis ini dikenal sebagai komponen yang mengikuti siklus hidup dukungan dari induk produk utama, Windows Server 2016."

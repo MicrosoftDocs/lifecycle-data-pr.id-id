@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Bus layanan untuk Windows Server
+  description: Bus layanan untuk Windows Server mengikuti kebijakan siklus hidup komponen.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856431"
+name: Bus layanan untuk Windows Server
+summary: >
+  Bus layanan untuk Windows Server mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+
+  > [!IMPORTANT]
+
+  > Ketika layanan bus 1,1 adalah komponen dari SharePoint Server 2016 atau SharePoint Server 2013, itu akan didukung sesuai akhir dukungan tanggal dari versi SharePoint Server masing-masing.
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/18/2012
+  end: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: ''

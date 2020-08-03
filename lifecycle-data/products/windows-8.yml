@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Jendela 8
+  description: Windows 8 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856470"
+name: Jendela 8
+summary: >
+  Windows 8 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Hal ini berlaku untuk edisi berikut ini: Enterprise, Enterprise N, N, Pro dengan Media Center, profesional, profesional N
+
+
+  > [!IMPORTANT]
+
+  > Dukungan untuk produk ini telah berakhir. Pelanggan harus memperbarui ke Windows 8,1 agar tetap didukung.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Link \n* [Siklus hidup FAQ-Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Perusahaan N\n* N\n* Pro dengan Media Center\n* Profesional\n* Profesional N"

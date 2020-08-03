@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Word untuk Mac 2011
+  description: Microsoft Word untuk Mac 2011 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856478"
+name: Microsoft Word untuk Mac 2011
+summary: "Microsoft Word untuk Mac 2011 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Dukungan mainstream untuk Microsoft Office untuk Mac 2011 diperpanjang seperti yang ditunjukkan dalam rangka untuk menyediakan semua pelanggan dengan waktu transisi siklus hidup standar"
