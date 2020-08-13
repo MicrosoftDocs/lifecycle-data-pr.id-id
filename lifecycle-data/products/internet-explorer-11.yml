@@ -2,13 +2,13 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 mengikuti kebijakan siklus hidup komponen.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4c247083877fd4640384b3a038a13888e2f4ddcd
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856377"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893650"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://www.microsoft.com/itpro/microsoft-edge)\n* [FAQ Kebijakan siklus hidup Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Mulai Januari 12, 2016, hanya versi terbaru dari Internet Explorer tersedia untuk sistem operasi yang didukung akan menerima dukungan teknis dan pembaruan keamanan."
+content: "\n## <a name=\"links\"></a>Tertaut \n* [Panduan migrasi](https://www.microsoft.com/itpro/microsoft-edge)\n* [FAQ Kebijakan siklus hidup Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Mulai 12 Januari 2016, hanya versi Internet Explorer terbaru yang tersedia untuk sistem operasi yang didukung akan menerima dukungan teknis dan pembaruan keamanan."
