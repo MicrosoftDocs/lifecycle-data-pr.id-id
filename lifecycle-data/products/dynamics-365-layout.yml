@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 tata letak
-  description: Dynamics 365 layout mengikuti kebijakan siklus hidup modern.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Tata letak Dynamics 365
+  description: Tata letak Dynamics 365 mengikuti kebijakan siklus hidup modern.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870131"
-name: Dynamics 365 tata letak
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891846"
+name: Tata letak Dynamics 365
 summary: >+
-  Dynamics 365 layout mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Tata letak Dynamics 365 mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Link \n* [Tata letak dan bantuan jarak jauh](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>Tertaut \n* [Bantuan tata letak dan jarak jauh](/dynamics365/mixed-reality/layout/faq)\n* [Mengumumkan transisi tata letak Dynamics 365](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
