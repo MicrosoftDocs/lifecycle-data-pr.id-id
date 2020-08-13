@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistem Cloud platform
-  description: Sistem Cloud platform mengikuti kebijakan siklus hidup tetap.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Sistem platform awan
+  description: Sistem platform awan mengikuti kebijakan siklus hidup tetap.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856501"
-name: Sistem Cloud platform
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891883"
+name: Sistem platform awan
 summary: >+
-  Sistem Cloud platform mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Sistem platform awan mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
 
+
+  Ini berlaku untuk edisi berikut: standar
 
 products:
 - azure
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Dukungan untuk sistem Cloud platform diperpanjang seperti yang ditunjukkan dalam rangka untuk menyediakan semua pelanggan dengan Timeline transisi siklus hidup standar.\n> [!NOTE]\n> Cloud platform System Standard diluncurkan pada tanggal 18 September 2017."
+content: "\n\n> [!NOTE]\n> Dukungan untuk sistem platform awan diperpanjang seperti yang diperlihatkan untuk menyediakan semua pelanggan dengan garis waktu transisi siklus hidup standar.\n> [!NOTE]\n> Standar sistem platform awan diluncurkan pada 18 September 2017.\n\n## <a name=\"editions\"></a>Enterprise \n* Standart"
