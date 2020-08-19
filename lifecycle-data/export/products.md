@@ -1,27 +1,27 @@
 ---
-title: Mengekspor produk
+title: Ekspor data siklus hidup
 description: Mengekspor informasi siklus hidup produk
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899806"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902406"
 ---
-# <a name="export"></a>Ex
+# <a name="lifecycle-data-export"></a>Ekspor data siklus hidup
 
 > [!IMPORTANT]
 > Halaman ini sedang dalam pengembangan.
 
 ## <a name="export-all-products"></a>Mengekspor semua produk
-Mengekspor semua produk tanpa filter apa pun.
+Mengekspor data siklus hidup untuk semua produk dengan mengklik di bawah ini:
 
 > [!div class="nextstepaction"]
 > [Mengekspor semua produk](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Mengekspor produk menurut kategori
-Pilih pengelompokan untuk mengekspor:
+## <a name="export-products-by-family-and-group"></a>Mengekspor produk menurut keluarga dan grup
+Pilih keluarga lalu grup untuk diekspor. Catatan: ekspor akan dimulai ketika nilai grup dipilih. 
 
 > [!div class="op_multi_selector" title1="Triple" title2="Kelompok"]
 > - [(.NET | Kesemua](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Pilih pengelompokan untuk mengekspor:
 > - [(Windows | Sekuritas](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Aden](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Mengekspor produk dengan akhir tahun dukungan
-Pilih tahun untuk mengekspor produk layanan akhir tahun itu:
+## <a name="export-products-by-end-of-support-date"></a>Mengekspor produk dengan akhir tanggal dukungan
+Pilih satu tahun untuk melihat produk yang mencapai akhir dukungan. Catatan: ekspor akan dimulai ketika nilai tahun dipilih.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
