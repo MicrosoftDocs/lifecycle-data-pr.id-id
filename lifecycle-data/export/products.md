@@ -1,27 +1,27 @@
 ---
-title: Mengekspor produk
+title: Ekspor data siklus hidup
 description: Mengekspor informasi siklus hidup produk
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899806"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902406"
 ---
-# <a name="export"></a><span data-ttu-id="65b99-103">Ex</span><span class="sxs-lookup"><span data-stu-id="65b99-103">Export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="d3d08-103">Ekspor data siklus hidup</span><span class="sxs-lookup"><span data-stu-id="d3d08-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="65b99-104">Halaman ini sedang dalam pengembangan.</span><span class="sxs-lookup"><span data-stu-id="65b99-104">This page is under development.</span></span>
+> <span data-ttu-id="d3d08-104">Halaman ini sedang dalam pengembangan.</span><span class="sxs-lookup"><span data-stu-id="d3d08-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="65b99-105">Mengekspor semua produk</span><span class="sxs-lookup"><span data-stu-id="65b99-105">Export All Products</span></span>
-<span data-ttu-id="65b99-106">Mengekspor semua produk tanpa filter apa pun.</span><span class="sxs-lookup"><span data-stu-id="65b99-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="d3d08-105">Mengekspor semua produk</span><span class="sxs-lookup"><span data-stu-id="d3d08-105">Export all products</span></span>
+<span data-ttu-id="d3d08-106">Mengekspor data siklus hidup untuk semua produk dengan mengklik di bawah ini:</span><span class="sxs-lookup"><span data-stu-id="d3d08-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="65b99-107">Mengekspor semua produk</span><span class="sxs-lookup"><span data-stu-id="65b99-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="d3d08-107">Mengekspor semua produk</span><span class="sxs-lookup"><span data-stu-id="d3d08-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="65b99-108">Mengekspor produk menurut kategori</span><span class="sxs-lookup"><span data-stu-id="65b99-108">Export Products by Category</span></span>
-<span data-ttu-id="65b99-109">Pilih pengelompokan untuk mengekspor:</span><span class="sxs-lookup"><span data-stu-id="65b99-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="d3d08-108">Mengekspor produk menurut keluarga dan grup</span><span class="sxs-lookup"><span data-stu-id="d3d08-108">Export products by Family and Group</span></span>
+<span data-ttu-id="d3d08-109">Pilih keluarga lalu grup untuk diekspor.</span><span class="sxs-lookup"><span data-stu-id="d3d08-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="d3d08-110">Catatan: ekspor akan dimulai ketika nilai grup dipilih.</span><span class="sxs-lookup"><span data-stu-id="d3d08-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Triple" title2="Kelompok"]
 > - [(.NET | Kesemua](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899806"
 > - [(Windows | Sekuritas](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Aden](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="65b99-167">Mengekspor produk dengan akhir tahun dukungan</span><span class="sxs-lookup"><span data-stu-id="65b99-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="65b99-168">Pilih tahun untuk mengekspor produk layanan akhir tahun itu:</span><span class="sxs-lookup"><span data-stu-id="65b99-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="d3d08-168">Mengekspor produk dengan akhir tanggal dukungan</span><span class="sxs-lookup"><span data-stu-id="d3d08-168">Export products by end of support date</span></span>
+<span data-ttu-id="d3d08-169">Pilih satu tahun untuk melihat produk yang mencapai akhir dukungan.</span><span class="sxs-lookup"><span data-stu-id="d3d08-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="d3d08-170">Catatan: ekspor akan dimulai ketika nilai tahun dipilih.</span><span class="sxs-lookup"><span data-stu-id="d3d08-170">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
