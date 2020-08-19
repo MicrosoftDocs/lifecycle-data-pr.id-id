@@ -2,26 +2,26 @@
 title: Ekspor data siklus hidup
 description: Mengekspor informasi siklus hidup produk
 ms.date: 08/19/2020
-ms.openlocfilehash: d116baffd1a01f45fafeb184fddda1a0736e694a
-ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
+ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
 ms.translationtype: MT
 ms.contentlocale: id-ID
 ms.lasthandoff: 08/19/2020
-ms.locfileid: "902639"
+ms.locfileid: "903657"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="8f257-103">Ekspor data siklus hidup</span><span class="sxs-lookup"><span data-stu-id="8f257-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="eb2a7-103">Ekspor data siklus hidup</span><span class="sxs-lookup"><span data-stu-id="eb2a7-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="8f257-104">Halaman ini sedang dalam pengembangan.</span><span class="sxs-lookup"><span data-stu-id="8f257-104">This page is under development.</span></span>
+> <span data-ttu-id="eb2a7-104">Halaman ini sedang dalam pengembangan.</span><span class="sxs-lookup"><span data-stu-id="eb2a7-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="8f257-105">Mengekspor semua produk</span><span class="sxs-lookup"><span data-stu-id="8f257-105">Export all products</span></span>
-<span data-ttu-id="8f257-106">Mengekspor data siklus hidup untuk semua produk dengan mengklik di bawah ini:</span><span class="sxs-lookup"><span data-stu-id="8f257-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="eb2a7-105">Mengekspor semua produk</span><span class="sxs-lookup"><span data-stu-id="eb2a7-105">Export all products</span></span>
+<span data-ttu-id="eb2a7-106">Mengekspor data siklus hidup untuk semua produk dengan mengklik di bawah ini:</span><span class="sxs-lookup"><span data-stu-id="eb2a7-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="8f257-107">Mengekspor semua produk</span><span class="sxs-lookup"><span data-stu-id="8f257-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="eb2a7-107">Mengekspor semua produk</span><span class="sxs-lookup"><span data-stu-id="eb2a7-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="8f257-108">Mengekspor produk menurut keluarga dan grup</span><span class="sxs-lookup"><span data-stu-id="8f257-108">Export products by Family and Group</span></span>
-<span data-ttu-id="8f257-109">Pilih keluarga lalu grup untuk diekspor.</span><span class="sxs-lookup"><span data-stu-id="8f257-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="8f257-110">Catatan: ekspor akan dimulai ketika nilai grup dipilih.</span><span class="sxs-lookup"><span data-stu-id="8f257-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="eb2a7-108">Mengekspor produk menurut keluarga dan grup</span><span class="sxs-lookup"><span data-stu-id="eb2a7-108">Export products by Family and Group</span></span>
+<span data-ttu-id="eb2a7-109">Pilih keluarga lalu grup untuk diekspor.</span><span class="sxs-lookup"><span data-stu-id="eb2a7-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="eb2a7-110">Catatan: ekspor akan dimulai ketika nilai grup dipilih.</span><span class="sxs-lookup"><span data-stu-id="eb2a7-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Triple" title2="Kelompok"]
 > - [(.NET | Kesemua](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -46,6 +46,7 @@ ms.locfileid: "902639"
 > - [(Ekspresi | Kesemua](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression')
 > - [(Ekspresi | Gen](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression'%20and%20parent/parent/name%20eq%20'Expression')
 > - [(Microsoft 365 | Kesemua](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365')
+> - [(Microsoft 365 | Mobilitas + keamanan perusahaan)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Enterprise%20Mobility%20%2B%20Security')
 > - [(Microsoft 365 | Manajemen identitas)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Identity%20Management')
 > - [(Kerangka layanan Microsoft Connected | Kesemua](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework')
 > - [(Kerangka layanan Microsoft Connected | Kerangka layanan tersambung)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
@@ -80,8 +81,8 @@ ms.locfileid: "902639"
 > - [(Windows | Sekuritas](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Aden](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="8f257-168">Mengekspor produk dengan akhir tanggal dukungan</span><span class="sxs-lookup"><span data-stu-id="8f257-168">Export products by end of support date</span></span>
-<span data-ttu-id="8f257-169">Pilih satu tahun untuk melihat produk yang mencapai akhir dukungan.</span><span class="sxs-lookup"><span data-stu-id="8f257-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="8f257-170">Catatan: ekspor akan dimulai ketika nilai tahun dipilih.</span><span class="sxs-lookup"><span data-stu-id="8f257-170">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="eb2a7-169">Mengekspor produk dengan akhir tanggal dukungan</span><span class="sxs-lookup"><span data-stu-id="eb2a7-169">Export products by end of support date</span></span>
+<span data-ttu-id="eb2a7-170">Pilih satu tahun untuk melihat produk yang mencapai akhir dukungan.</span><span class="sxs-lookup"><span data-stu-id="eb2a7-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="eb2a7-171">Catatan: ekspor akan dimulai ketika nilai tahun dipilih.</span><span class="sxs-lookup"><span data-stu-id="eb2a7-171">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
