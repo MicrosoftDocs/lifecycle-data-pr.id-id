@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Pembuat kebijakan
+  description: PolicyMaker mengikuti kebijakan siklus hidup tetap.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904205"
+name: Pembuat kebijakan
+summary: >+
+  PolicyMaker mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Ini berlaku untuk edisi berikut: keamanan aplikasi, edisi Outlook, 9,0 profesional, ekstensi registri 2,0, Share Manager 1,0, pembaruan perangkat lunak 1,0, pembaruan perangkat lunak 2,0, standar 1,0, standar 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Dukungan untuk produk ini tunduk pada ketentuan akuisisi.\n\n## <a name=\"editions\"></a>Enterprise \n* Keamanan aplikasi\n* Edisi Outlook\n* 9,0 profesional\n* 2,0 ekstensi registri\n* Berbagi manajer 1,0\n* Pembaruan perangkat lunak 1,0\n* Pembaruan perangkat lunak 2,0\n* 1,0 standar\n* 2,0 standar"
