@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft aplikasi virtualisasi hosting 5,0 untuk Windows Desktop
-  description: Microsoft aplikasi virtualisasi hosting 5,0 untuk Windows Desktop mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Application Virtualization Hosting 5.0 untuk Windows Desktops
+  description: Microsoft Application Virtualization Hosting 5.0 untuk Windows Desktops mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856363"
-name: Microsoft aplikasi virtualisasi hosting 5,0 untuk Windows Desktop
+name: Microsoft Application Virtualization Hosting 5.0 untuk Windows Desktops
 summary: >+
-  Microsoft aplikasi virtualisasi hosting 5,0 untuk Windows Desktop mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization Hosting 5.0 untuk Windows Desktops mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: untuk Windows Desktop
+  Hal ini berlaku untuk edisi berikut: untuk Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Link \n* [Informasi produk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* untuk Windows Desktop"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi produk](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Untuk Windows Desktops"

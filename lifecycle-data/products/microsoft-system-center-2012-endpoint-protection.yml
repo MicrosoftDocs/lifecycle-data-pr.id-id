@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Perlindungan Endpoint Microsoft System Center 2012
-  description: Microsoft System Center 2012 Endpoint Protection mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft System Center 2012 Endpoint Protection
+  description: Microsoft System Center 2012 Endpoint Protection mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856437"
-name: Perlindungan Endpoint Microsoft System Center 2012
+name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
-  Microsoft System Center 2012 Endpoint Protection mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 Endpoint Protection mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
   Hal ini berlaku untuk edisi berikut: untuk Mac
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Link \n* [Layanan informasi](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n* [Dokumentasi pusat sistem](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Pelanggan harus tetap terkini dengan pembaruan platform anti-malware terbaru untuk sepenuhnya didukung.\n\n## <a name=\"editions\"></a>Edisi \n* untuk Mac"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi pelayanan](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n* [Dokumentasi System Center](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Pelanggan harus terus siaga dengan pembaruan platform anti-malware terbaru yang akan sepenuhnya didukung.\n\n## <a name=\"editions\"></a>Edisi \n* untuk Mac"

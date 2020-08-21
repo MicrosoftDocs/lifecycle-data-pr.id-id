@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 App pengendali
-  description: Microsoft System Center 2012 App controller mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft System Center 2012 App Controller
+  description: Microsoft System Center 2012 App Controller mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856440"
-name: Microsoft System Center 2012 App pengendali
+name: Microsoft System Center 2012 App Controller
 summary: >+
-  Microsoft System Center 2012 App controller mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 App Controller mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Link \n* [Informasi Pusat sistem](/system-center/#pivot=components&panel=components-all)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 terdiri dari komponen: Configuration Manager manajer perlindungan data operasi manajer pengelola Layanan Manajemen Layanan otomatisasi Virtual Machine Manager Service Provider Foundation"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi System Center](/system-center/#pivot=components&panel=components-all)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 terdiri dari komponen: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"
