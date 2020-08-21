@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2019
-  description: Visual Studio 2019 mengikuti kebijakan siklus hidup tetap.
+  description: Visual Studio 2019 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870179"
 name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Visual Studio 2019 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: agen, membangun alat, komunitas, Enterprise, untuk Mac, IntelliTrace standalone Collector, Performance Tools, profesional, remote Tools, Team Explorer, Visual C++ Redistributable
+  Berlaku untuk edisi berikut ini: Agents, Build Tools, Community, Enterprise, untuk Mac, IntelliTrace Standalone Collector, Perangkat Kinerja, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Link \n* [Pengumuman](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Layanan informasi](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Edisi \n* Agen\n* Membangun alat\n* Comunity\n* Perusahaan\n* untuk Mac\n* IntelliTrace standalone kolektor\n* Alat kinerja\n* Profesional\n* Alat jarak jauh\n* Tim penjelajah\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Pengumuman](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informasi pelayanan](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Edisi \n* Agents\n* Perangkat Pembangun\n* Community\n* Enterprise\n* untuk Mac\n* IntelliTrace Standalone Collector\n* Perangkat Kinerja\n* Professional\n* Perangkat Jarak Jauh\n* Team Explorer\n* Visual C++ Redistributable"
