@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office untuk Mac 2011
-  description: Microsoft Office untuk Mac 2011 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft Office untuk Mac 2011 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856323"
 name: Microsoft Office untuk Mac 2011
 summary: >+
-  Microsoft Office untuk Mac 2011 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Office untuk Mac 2011 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut: akademik, rumah dan bisnis, rumah dan program penggunaan rumah bisnis, rumah dan siswa, standar
+  Berlaku untuk edisi berikut ini: Akademik, Rumah dan Bisnis, Program Penggunaan Rumah dan Rumah Bisnis, Rumah dan Pelajar, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan mainstream untuk Microsoft Office untuk Mac 2011 diperpanjang seperti yang ditunjukkan dalam rangka untuk menyediakan semua pelanggan dengan waktu transisi siklus hidup standar.\n\n## <a name=\"editions\"></a>Edisi \n* Akademik\n* Rumah dan bisnis\n* Home dan Business Home Gunakan program\n* Rumah dan siswa\n* Standar"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan mainstream untuk Microsoft Office untuk Mac 2011 diperpanjang seperti yang ditunjukkan untuk menyediakan alur waktu transisi siklus hidup standar kepada semua pelanggan.\n\n## <a name=\"editions\"></a>Edisi \n* Akademik\n* Rumah dan Bisnis\n* Program Penggunaan Rumah dan Rumah Bisnis\n* Rumah dan Pelajar\n* Standard"

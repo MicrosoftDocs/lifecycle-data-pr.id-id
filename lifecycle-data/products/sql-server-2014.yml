@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2014
-  description: SQL Server 2014 mengikuti kebijakan siklus hidup tetap.
+  description: SQL Server 2014 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856647"
 name: SQL Server 2014
 summary: >+
-  SQL Server 2014 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  SQL Server 2014 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: Business Intelligence, pengembang, Enterprise, Enterprise Core, Express, Standard, web
+  Berlaku untuk edisi berikut ini: Intelijen Bisnis, Pengembang, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Intelijen Bisnis\n* Pengembang\n* Perusahaan\n* Inti perusahaan\n* Express\n* Standar\n* Web"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Intelijen Bisnis\n* Pengembang\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"
