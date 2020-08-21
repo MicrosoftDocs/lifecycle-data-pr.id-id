@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 2016 (Dynamics 365)
-  description: Dynamics CRM 2016 (Dynamics 365) mengikuti kebijakan siklus hidup tetap.
+  description: Dynamics CRM 2016 (Dynamics 365) mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/30/2020
   ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
   ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878785"
 name: Dynamics CRM 2016 (Dynamics 365)
 summary: >+
-  Dynamics CRM 2016 (Dynamics 365) mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Dynamics CRM 2016 (Dynamics 365) mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release (ver 8.0)
   startDate: 11/30/2015
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>Link \n* [Program migrasi Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Informasi dukungan](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Program Migrasi Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Informasi Dukungan](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)"

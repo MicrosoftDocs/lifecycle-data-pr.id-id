@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 untuk Talent
-  description: Dynamics 365 untuk Talent mengikuti kebijakan siklus hidup modern.
+  description: Dynamics 365 untuk Talent mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870148"
 name: Dynamics 365 untuk Talent
 summary: >+
-  Dynamics 365 untuk Talent mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Dynamics 365 untuk Talent mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
-  Hal ini berlaku untuk edisi berikut: onboard
+  Berlaku untuk edisi berikut ini: Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Link \n* [Persyaratan sistem](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Panduan migrasi](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Aplikasi menarik dan onboard akan dihentikan pada tanggal 2 Februari 2022.  Core HR diluncurkan kembali sebagai sumber daya manusia Dynamics 365 pada 1 Februari 2020, lihat panduan migrasi untuk informasi lebih lanjut.\n\n## <a name=\"editions\"></a>Edisi \n* Onboard"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Persyaratan sistem](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Panduan migrasi](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Aplikasi Attract dan Onboard akan dihentikan pada tanggal 2 Februari 2022.  Core HR diluncurkan kembali sebagai Dynamics 365 Human Resources pada 1 Februari 2020, lihat panduan migrasi untuk informasi lebih lanjut.\n\n## <a name=\"editions\"></a>Edisi \n* Onboard"

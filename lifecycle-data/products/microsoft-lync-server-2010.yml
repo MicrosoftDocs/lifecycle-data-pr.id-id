@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2010
-  description: Microsoft Lync Server 2010 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft Lync Server 2010 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/30/2020
   ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879455"
 name: Microsoft Lync Server 2010
 summary: >+
-  Microsoft Lync Server 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Lync Server 2010 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: Enterprise, kit pengembangan perangkat lunak Obrolan grup, SDK, standar
+  Berlaku untuk edisi berikut ini: Enterprise, Kit Pengembangan Perangkat Lunak Obrolan Grup, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Link \n* [Edisi telepon Lync](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Edisi telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk edisi telepon Lync telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup 2013 Lync Server.\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Kit pengembangan perangkat lunak Obrolan grup\n* Sdk\n* Standar"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Edisi Lync Phone](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Edisi Telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk Edisi Telepon Lync telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup Lync Server 2013.\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Kit Pengembangan Perangkat Lunak Obrolan Grup\n* SDK\n* Standard"
