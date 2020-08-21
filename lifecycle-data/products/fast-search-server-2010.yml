@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (untuk situs internet, untuk aplikasi internal)
-  description: FAST Search Server 2010 (untuk situs internet, untuk aplikasi internal) mengikuti kebijakan siklus hidup tetap.
+  title: FAST Search Server 2010 (untuk Situs Internet, untuk Aplikasi Internal)
+  description: FAST Search Server 2010 (untuk Situs Internet, untuk Aplikasi Internal) mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823630"
-name: FAST Search Server 2010 (untuk situs internet, untuk aplikasi internal)
+name: FAST Search Server 2010 (untuk Situs Internet, untuk Aplikasi Internal)
 summary: >+
-  FAST Search Server 2010 (untuk situs internet, untuk aplikasi internal) mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  FAST Search Server 2010 (untuk Situs Internet, untuk Aplikasi Internal) mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut: aplikasi internal, situs internet
+  Berlaku untuk edisi berikut ini: Aplikasi Internal, Situs Internet
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Siklus hidup FAQ-Umum](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Mengecualikan versi sebelumnya de-didukung. Dukungan untuk produk ini tunduk pada persyaratan akuisisi.\n\n## <a name=\"editions\"></a>Edisi \n* Aplikasi internal\n* Situs internet"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Pertanyaan Umum Siklus Hidup - Umum](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Mengecualikan versi yang sebelumnya sudah tak didukung. Dukungan untuk produk ini tunduk pada ketentuan akuisisinya.\n\n## <a name=\"editions\"></a>Edisi \n* Aplikasi Internal\n* Internet Sites"

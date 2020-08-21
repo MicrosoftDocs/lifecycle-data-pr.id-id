@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft lanjut grup kebijakan manajemen 4,0
-  description: Microsoft lanjut grup kebijakan manajemen 4,0 mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Advanced Group Policy Management 4.0
+  description: Microsoft Advanced Group Policy Management 4.0 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823597"
-name: Microsoft lanjut grup kebijakan manajemen 4,0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Microsoft lanjut grup kebijakan manajemen 4,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Advanced Group Policy Management 4.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Link \n* [MDOP pengalaman informasi](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [MDOP Information Experience](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)"

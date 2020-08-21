@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Configuration Manager 2007
-  description: Microsoft System Center Configuration Manager 2007 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft System Center Configuration Manager 2007 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823465"
 name: Microsoft System Center Configuration Manager 2007
 summary: >
-  Microsoft System Center Configuration Manager 2007 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft System Center Configuration Manager 2007 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Informasi produk](/mem/configmgr/core/understand/introduction)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Informasi produk](/mem/configmgr/core/understand/introduction)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)"

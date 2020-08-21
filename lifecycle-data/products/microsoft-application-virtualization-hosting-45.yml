@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft aplikasi virtualisasi hosting 4,5 untuk Windows Desktop
-  description: Microsoft aplikasi virtualisasi hosting 4,5 untuk Windows Desktop mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Application Virtualization Hosting 4.5 untuk Windows Desktops
+  description: Microsoft Application Virtualization Hosting 4.5 untuk Windows Desktops mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823585"
-name: Microsoft aplikasi virtualisasi hosting 4,5 untuk Windows Desktop
+name: Microsoft Application Virtualization Hosting 4.5 untuk Windows Desktops
 summary: >
-  Microsoft aplikasi virtualisasi hosting 4,5 untuk Windows Desktop mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization Hosting 4.5 untuk Windows Desktops mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: untuk Windows Desktop
+  Hal ini berlaku untuk edisi berikut: untuk Windows Desktops
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Link \n* [Informasi produk dan migrasi](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* untuk Windows Desktop"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi produk dan migrasi](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Untuk Windows Desktops"

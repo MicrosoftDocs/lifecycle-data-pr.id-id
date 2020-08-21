@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008
-  description: Windows Server 2008 mengikuti kebijakan siklus hidup tetap.
+  description: Windows Server 2008 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823741"
 name: Windows Server 2008
 summary: >
-  Windows Server 2008 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Server 2008 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: Datacenter, Datacenter tanpa Hyper-V, Enterprise, Enterprise tanpa Hyper-V, sistem berbasis Itanium, Foundation, standar, standar tanpa Hyper-V, web
+  Berlaku untuk edisi berikut ini: Datacenter, Datacenter tanpa Hyper-V, Enterprise, Enterprise tanpa Hyper-V, untuk Sistem Berbasis Itanium, Foundation, Standard, Standard tanpa Hyper-V, Web
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://aka.ms/AA1ovn4)\n* [Informasi peningkatan server](/windows-server/upgrade/upgrade-overview)\n* [Perpanjangan keamanan program pembaruan (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Perpanjangan keamanan pembaruan (ESU) tersedia melalui program lisensi volume khusus untuk Datacenter, standar, perusahaan dan tertanam edisi produk ini edisi, hingga tambahan tiga tahun melewati akhir dukungan. Hubungi Mitra Microsoft atau tim akun Anda untuk mempelajari lebih lanjut. \n\nRelease-------------------------------tanggal mulai----tanggal akhir\n\nPembaruan keamanan yang diperpanjang tahun 3---01/11/2022---01/10/2023\n\nPembaruan keamanan diperpanjang tahun 2---01/12/2021---01/11/2022\n\nPembaruan keamanan diperpanjang tahun 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation dirilis pada 21 Mei 2009\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Datacenter tanpa Hyper-V\n* Perusahaan\n* Perusahaan tanpa Hyper-V\n* untuk sistem berbasis Itanium\n* Foundation\n* Standar\n* Standar tanpa Hyper-V\n* Web"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://aka.ms/AA1ovn4)\n* [Informasi Peningkatan Server](/windows-server/upgrade/upgrade-overview)\n* [Program Extended Security Update (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Extended Security Updates (ESU) tersedia melalui program lisensi volume spesifik untuk edisi Datacenter, Standard, Enterprise, dan Embedded dari edisi produk ini, selama atau hingga tiga tahun tambahan melewati masa akhir dukungan. Hubungi mitra atau tim akun Microsoft Anda untuk mempelajari lebih lanjut. \n\nRilis-------------------------------Tanggal Mulai----Tanggal Akhir\n\nExtended Security Update Tahun 3---11/01/2022---10/01/2023\n\nExtended Security Update Tahun 2---12/01/2021---11/01/2022\n\nExtended Security Update Tahun 1---14/01/2020---12/01/2021\n> [!NOTE]\n> Windows Server 2008 Foundation dirilis pada 21 Mei 2009\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Datacenter tanpa Hyper-V\n* Enterprise\n* Enterprise tanpa Hyper-V\n* untuk Sistem Berbasis Itanium\n* Foundation\n* Standard\n* Standard tanpa Hyper-V\n* Web"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Proyek Server 2010
-  description: Project Server 2010 mengikuti kebijakan siklus hidup tetap.
+  title: Project Server 2010
+  description: Project Server 2010 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c04194a3d405101429475ce7fd4561743790151
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822900"
-name: Proyek Server 2010
+name: Project Server 2010
 summary: >+
-  Project Server 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Project Server 2010 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Dukungan ekstensi](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Roadmap proyek server](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Produk ini akhir tanggal dukungan telah diperpanjang dari 13 Oktober 2020 sampai April 13, 2021."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Perpanjangan dukungan](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Peta Jalur Project Server](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Tanggal akhir dukungan produk ini telah diperpanjang mulai 13 Oktober 2020 hingga 13 April 2021."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2005
-  description: Microsoft SQL Server 2005 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft SQL Server 2005 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823061"
 name: Microsoft SQL Server 2005
 summary: >
-  Microsoft SQL Server 2005 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft SQL Server 2005 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: Compact, pengembang, Embedded, Enterprise, Enterprise untuk sistem berbasis Itanium, Enterprise X64, Express, Express dengan layanan lanjut, standar, standar untuk sistem berbasis Itanium, standar X64, Workgroup
+  Berlaku untuk edisi berikut ini: Compact, Pengembang, Embedded, Enterprise, Enterprise for Itanium-based Systems, Enterprise X64, Express, Express with Advanced Services, Standard, Standard for Itanium-based Systems, Standard X64, Workgroup
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 edisi ringkas dirilis 19 Februari 2007.\n\n## <a name=\"editions\"></a>Edisi \n* Kompak\n* Pengembang\n* Tertanam\n* Perusahaan\n* Enterprise untuk sistem berbasis Itanium\n* Perusahaan X64\n* Express\n* Express dengan layanan lanjutan\n* Standar\n* Standar untuk sistem berbasis Itanium\n* Standar X64\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Edisi Compact Microsoft SQL Server 2005 dirilis 19 Februari 2007.\n\n## <a name=\"editions\"></a>Edisi \n* Compact\n* Pengembang\n* Embedded\n* Enterprise\n* Enterprise untuk Sistem berbasis Itanium\n* Enterprise X64\n* Express\n* Express dengan Layanan Lanjutan\n* Standard\n* Standard untuk Sistem berbasis Itanium\n* Standard X64\n* Workgroup"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP tertanam
-  description: Windows XP Embedded mengikuti kebijakan siklus hidup tetap.
+  title: Windows XP Embedded
+  description: Windows XP Embedded mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823017"
-name: Windows XP tertanam
+name: Windows XP Embedded
 summary: >
-  Windows XP Embedded mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows XP Embedded mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: Embedded
+  Berlaku untuk edisi berikut ini: Embedded
 
 
   > [!IMPORTANT]
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Link \n* [Dukungan Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edisi \n* Tertanam"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Dukungan Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edisi \n* Embedded"

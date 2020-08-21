@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Penyimpanan Windows Server 2008 tertanam
-  description: Penyimpanan Windows Server 2008 tertanam mengikuti kebijakan siklus hidup tetap.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823019"
-name: Penyimpanan Windows Server 2008 tertanam
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Penyimpanan Windows Server 2008 tertanam mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Storage Server 2008 Embedded mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: 32 bit, 64 bit, Basic, Basic 32-bit, Enterprise, Standard, Workgroup
+  Berlaku untuk edisi berikut ini: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Produk ini telah mencapai akhir dukungan. Lihat di bawah untuk panduan migrasi.\n\n## <a name=\"editions\"></a>Edisi \n* 32 sedikit\n* 64 sedikit\n* Dasar\n* Dasar 32-bit\n* Perusahaan\n* Standar\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Produk ini telah mencapai masa berakhirnya dukungan. Lihat di bawah untuk panduan migrasi.\n\n## <a name=\"editions\"></a>Edisi \n* 32 Bit\n* 64 Bit\n* Dasar\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

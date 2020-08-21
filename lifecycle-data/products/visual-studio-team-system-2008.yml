@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio Team sistem 2008
-  description: Visual Studio Team System 2008 mengikuti kebijakan siklus hidup tetap.
+  title: Visual Studio Team System 2008
+  description: Visual Studio Team System 2008 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823401"
-name: Visual Studio Team sistem 2008
+name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Visual Studio Team System 2008 mengikuti [Kebijakan Siklus Hidup Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: semua, arsitektur, database, pengembangan, tim penjelajah, tim uji beban agen
+  Berlaku untuk edisi berikut ini: Semua, Arsitektur, Database, Pengembangan, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Panduan migrasi](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Semua\n* Arsitektur\n* Database\n* Pengembangan\n* Tim penjelajah\n* Tim uji beban agen"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Panduan migrasi](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Semua\n* Arsitektur\n* Database\n* Pengembangan\n* Team Explorer\n* Team Test Load Agent"

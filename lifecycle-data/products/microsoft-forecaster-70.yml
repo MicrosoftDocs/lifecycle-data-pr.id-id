@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forecaster 7,0
-  description: Microsoft Forecaster 7,0 mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823519"
-name: Microsoft Forecaster 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Forecaster 7.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan Forecaster berakhir pada tanggal yang ditunjukkan kecuali didistribusikan sebagai komponen produk Dynamics. Ketika didistribusikan dengan produk Dynamics, tanggal siklus hidup Dynamics menimpa Forecaster tanggal."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan Forecaster berakhir pada tanggal yang ditunjukkan kecuali didistribusikan sebagai Komponen dari produk Dynamics. Ketika didistribusikan dengan produk Dynamics, tanggal siklus hidup Dynamics berlaku dan membatalkan tanggal Forecaster."
