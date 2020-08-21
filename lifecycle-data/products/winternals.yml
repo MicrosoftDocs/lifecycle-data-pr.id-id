@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Oleh Winternals
-  description: Winternals mengikuti kebijakan siklus hidup tetap.
+  title: Winternals
+  description: Winternals mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823015"
-name: Oleh Winternals
+name: Winternals
 summary: >+
-  Winternals mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Winternals mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut: administrator Pak 5,0, manajer defrag 3,0, manajer perlindungan 2,0, manajer pemulihan 3,0
+  Berlaku untuk edisi berikut ini: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan siklus hidup untuk akuisisi Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Mengecualikan versi sebelumnya de-didukung. Dukungan untuk produk ini tunduk pada persyaratan akuisisi.\n\n## <a name=\"editions\"></a>Edisi \n* Pengurus Pak 5,0\n* Defrag manajer 3,0\n* Manajer perlindungan 2,0\n* Pemulihan manajer 3,0"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan Siklus Hidup untuk akuisisi Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Mengecualikan versi yang sebelumnya sudah tak didukung. Dukungan untuk produk ini tunduk pada ketentuan akuisisinya.\n\n## <a name=\"editions\"></a>Edisi \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"

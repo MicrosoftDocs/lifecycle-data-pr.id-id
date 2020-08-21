@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Threat Management Gateway 2010
-  description: Microsoft Forefront Threat Management Gateway 2010 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft Forefront Threat Management Gateway 2010 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823513"
 name: Microsoft Forefront Threat Management Gateway 2010
 summary: >
-  Microsoft Forefront Threat Management Gateway 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Forefront Threat Management Gateway 2010 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut: Enterprise, Standard
+  Berlaku untuk edisi berikut ini: Enterprise, Standard
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Standar"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Standard"

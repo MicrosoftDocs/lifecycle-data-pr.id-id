@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP
-  description: Windows XP mengikuti kebijakan siklus hidup tetap.
+  description: Windows XP mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823016"
 name: Windows XP
 summary: >
-  Windows XP mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows XP mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut: rumah, profesional, profesional untuk sistem Embedded, starter
+  Berlaku untuk edisi berikut ini: Rumah, Professional, Professional for Embedded Systems, Starter
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Rumah\n* Profesional\n* Profesional untuk sistem Embedded\n* Starter"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Rumah\n* Professional\n* Professional untuk Embedded Systems\n* Starter"

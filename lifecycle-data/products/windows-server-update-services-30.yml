@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Layanan pembaruan Server Windows 3,0
-  description: Windows Server Update Services 3,0 mengikuti kebijakan siklus hidup tetap.
+  title: Layanan Pembaruan Windows Server 3.0
+  description: Windows Server Update Services 3.0 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823739"
-name: Layanan pembaruan Server Windows 3,0
+name: Layanan Pembaruan Windows Server 3.0
 summary: >
-  Windows Server Update Services 3,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Server Update Services 3.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan diperpanjang dari 7/11/2017 ke 1/14/2020."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan diperpanjang dari 11/7/2017 ke 14/1/2020."

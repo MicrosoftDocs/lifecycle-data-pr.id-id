@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Customer Care Framework 2009
-  description: Microsoft Customer Care Framework 2009 mengikuti kebijakan siklus hidup tetap.
+  title: Framework Layanan Pelanggan Microsoft 2009
+  description: Microsoft Customer Care Framework 2009 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823528"
-name: Microsoft Customer Care Framework 2009
+name: Framework Layanan Pelanggan Microsoft 2009
 summary: >
-  Microsoft Customer Care Framework 2009 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Customer Care Framework 2009 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2008
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)"

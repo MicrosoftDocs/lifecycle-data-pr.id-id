@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Jendela 7
-  description: Windows 7 mengikuti kebijakan siklus hidup tetap.
+  title: Windows 7
+  description: Windows 7 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822875"
-name: Jendela 7
-summary: "Windows 7 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nHal ini berlaku untuk edisi berikut: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional untuk Embedded Systems, Professional N, starter, starter N, Ultimate, Ultimate untuk Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. Lihat panduan migrasi di bawah. \n"
+name: Windows 7
+summary: "Windows 7 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).\n\nBerlaku untuk edisi berikut ini: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional untuk Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate untuk Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. Lihat panduan migrasi di bawah. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> ' * Perpanjangan keamanan pembaruan (ESU) tersedia melalui program lisensi volume khusus untuk Windows 7 Professional, Enterprise, dan Professional untuk edisi sistem tertanam produk ini, sampai dengan tambahan tiga tahun melewati akhir dukungan. Hubungi Mitra Microsoft atau tim akun Anda untuk mempelajari lebih lanjut. \n\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://support.microsoft.com/help/4057281)\n* [Meningkatkan dari Windows 7 ke Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Perpanjangan keamanan program pembaruan (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Perusahaan N\n* Home dasar\n* Rumah Premium\n* Rumah Premium N\n* Profesional\n* Profesional untuk sistem Embedded\n* Profesional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate untuk sistem Embedded\n* Akhir N"
+content: "> [!TIP]\n> Extended Security Updates (ESU) tersedia melalui program lisensi volume tertentu untuk edisi Windows 7 Professional, Enterprise, dan Professional untuk Embedded Systems pada produk ini, selama atau hingga tiga tahun melewati masa akhir dukungan. Hubungi mitra atau tim akun Microsoft Anda untuk mempelajari lebih lanjut. \n\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://support.microsoft.com/help/4057281)\n* [Meningkatkan dari Windows 7 ke Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Program Extended Security Update (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional untuk Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate untuk Embedded Systems\n* Ultimate N"

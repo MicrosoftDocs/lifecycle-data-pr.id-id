@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010 mengikuti kebijakan siklus hidup tetap.
+  description: Visual Studio 2010 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823034"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Visual Studio 2010 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: agen, semua, ASP .NET MVC 4, Express, F # 2,0 runtime, Lab manajemen, kinerja alat, Premium, profesional, remote debugger, SDK, Shell (terpadu), Shell (terisolasi), tim agen, Tim Explorer, uji profesional, alat untuk sistem Office 4,0 runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, visualisasi & pemodelan SDK
+  Berlaku untuk edisi berikut ini: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Terintegrasi), Shell (Terisolasi), Team Agents, Team Explorer, Test Professional, Tools untuk Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Agen\n* Semua\n* ASP .NET MVC 4\n* Express\n* F # 2,0 Runtime\n* Manajemen Lab\n* Alat kinerja\n* Premium\n* Profesional\n* Remote debugger\n* Sdk\n* Shell (terpadu)\n* Shell (terisolasi)\n* Agen tim\n* Tim penjelajah\n* Uji profesional\n* Alat untuk sistem Office 4,0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualisasi & pemodelan SDK"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Agents\n* Semua\n* ASP .NET MVC 4\n* Express\n* F # 2.0 Runtime\n* Manajemen Lab\n* Perangkat Kinerja\n* Premium\n* Professional\n* Remote Debugger\n* SDK\n* Shell (Terintegrasi)\n* Shell (Terisolasi)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools untuk Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

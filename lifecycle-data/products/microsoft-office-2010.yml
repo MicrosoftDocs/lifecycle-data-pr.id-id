@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2010
-  description: Microsoft Office 2010 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft Office 2010 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823175"
 name: Microsoft Office 2010
 summary: >+
-  Microsoft Office 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Office 2010 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut: eAcademy, rumah dan bisnis, rumah dan siswa, pribadi, profesional, profesional akademik, profesional Plus, profesional Plus Home use program, standar, starter
+  Hal ini berlaku untuk edisi berikut: eAcademy, Rumah dan Bisnis, Rumah dan Pelajar, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Link \n* [Roadmap Office 2010 akhir dukungan](/DeployOffice/office-2010-end-support-roadmap)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* oleh eAcademy\n* Rumah dan bisnis\n* Rumah dan siswa\n* Pribadi\n* Profesional\n* Akademik profesional\n* Profesional Plus\n* Program penggunaan rumah profesional Plus\n* Standar\n* Starter"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Peta jalur akhir dukungan Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* eAcademy\n* Rumah dan Bisnis\n* Rumah dan Pelajar\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Starter"
