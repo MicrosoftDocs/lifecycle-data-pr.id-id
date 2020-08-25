@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom mengikuti kebijakan siklus hidup tetap.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907294"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Ini berlaku untuk edisi berikut: aplikasi Layanan 1,0, klien 2,0, klien 2,1, server 2,0, server 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson mengakuisisi produk Microsoft Mediaroom di 2013. Untuk informasi selengkapnya, silakan lihat [Press Release](http://www.ericsson.com/news/1691160). Untuk pelanggan yang memerlukan dukungan, silakan kunjungi [di sini](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2,1 dirilis pada 27 Desember 2011. \n\n## <a name=\"editions\"></a>Edisi \n* Layanan aplikasi 1,0\n* Klien 2,0\n* Klien 2,1\n* Server 2,0\n* Server 2,1"
