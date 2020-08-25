@@ -2,19 +2,19 @@
 metadata:
   title: Excel 2010
   description: Excel 2010 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b87f39a5d41d37ea9ea0c6f9e9871319d92b89c9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/24/2020
+  ms.openlocfilehash: bc8805039d86091798248251f13a1af772825198
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "823637"
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908476"
 name: Excel 2010
 summary: >+
   Excel 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
 
 
-  Hal ini berlaku untuk edisi berikut: rumah dan siswa, standar
+  Ini berlaku untuk edisi berikut: Home and Student, Mobile, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/DeployOffice/office-2010-end-support-roadmap)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Rumah dan siswa\n* Standar"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/DeployOffice/office-2010-end-support-roadmap)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Rumah dan Pelajar\n* Handphone\n* Standard"
