@@ -2,13 +2,13 @@
 metadata:
   title: Keamanan klien Microsoft Forefront
   description: Keamanan klien Microsoft Forefront mengikuti kebijakan siklus hidup tetap.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908780"
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924259"
 name: Keamanan klien Microsoft Forefront
 summary: >+
   Keamanan klien Microsoft Forefront mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Tautan \n* [Proteksi titik akhir System Center](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> Keamanan klien Forefront telah dihentikan. Dukungan berakhir pada 14 Juli, 2015. Pembaruan definisi antimalware dan antispyware tidak akan lagi tersedia setelah akhir dukungan untuk versi produk. Silakan mengevaluasi proteksi titik akhir System Center sebagai pengganti."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Proteksi titik akhir System Center](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Keamanan klien Forefront telah dihentikan pada 14 Juli 2015. Pembaruan definisi antimalware dan antispyware tidak akan lagi tersedia setelah akhir dukungan untuk versi produk. Silakan mengevaluasi proteksi titik akhir System Center sebagai pengganti."
