@@ -2,19 +2,20 @@
 metadata:
   title: Ekspresi 3
   description: Expression 3 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "822950"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930754"
 name: Ekspresi 3
 summary: >+
   Expression 3 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
 
 
-  Hal ini berlaku untuk edisi berikut: Desain, Encoder, studio, web
+  Ini berlaku untuk edisi berikut: Desain, Encoder, studio, web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Tanggal mulai untuk Expression Design 3 adalah 19 November 2009. \n\n## <a name=\"editions\"></a>Edisi \n* Desain\n* Encoder\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> Tanggal mulai untuk desain ekspresi 3 adalah 19 November 2009. \n\n## <a name=\"editions\"></a>Edisi \n* Desain\n* Peng\n* Studio\n* Web"
