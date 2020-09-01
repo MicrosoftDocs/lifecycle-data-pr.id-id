@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft BizTalk adapter 2,0
   description: Microsoft BizTalk adapter 2,0 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 807011d58eb9c568bd6d71b1ce3e616a4451e0bd
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: for MSMQ,for mySAP Business Suite,for SAP
+  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894029"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934750"
 name: Microsoft BizTalk adapter 2,0
 summary: >+
   Microsoft BizTalk adapter 2,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/20/2004
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Tanggal mulai untuk Microsoft BizTalk adapter 2,0 untuk SAP adalah 2 November 2004. Tanggal mulai untuk adapter Microsoft BizTalk untuk MSMQ 2,0 adalah 10 Desember 2004\n\n## <a name=\"editions\"></a>Enterprise \n* untuk MSMQ\n* untuk mySAP Business Suite\n* untuk SAP"
+content: "\n\n> [!NOTE]\n> Tanggal mulai untuk Microsoft BizTalk adapter 2,0 untuk SAP adalah 2 November 2004. Tanggal mulai untuk adapter Microsoft BizTalk untuk MSMQ 2,0 adalah 10 Desember 2004\n\n## <a name=\"editions\"></a>Edisi \n* untuk MSMQ\n* untuk mySAP Business Suite\n* untuk SAP"

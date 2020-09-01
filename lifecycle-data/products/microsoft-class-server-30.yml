@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft kelas server 3,0
-  description: Microsoft kelas server 3,0 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d393a373e1a6b59165567eab05a2f777bdddece9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Server Microsoft Class 3,0
+  description: Microsoft Class server 3,0 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "823548"
-name: Microsoft kelas server 3,0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934639"
+name: Server Microsoft Class 3,0
 summary: >+
-  Microsoft kelas server 3,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Class server 3,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
 
 
-  Hal ini berlaku untuk edisi berikut ini: standar
+  Berlaku untuk edisi berikut ini: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2003
   endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Standar"
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Standard"

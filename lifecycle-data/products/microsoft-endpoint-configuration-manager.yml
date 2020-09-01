@@ -2,13 +2,14 @@
 metadata:
   title: Manajer konfigurasi titik akhir Microsoft
   description: Manajer konfigurasi titik akhir Microsoft mengikuti kebijakan siklus hidup modern.
-  ms.date: 08/20/2020
-  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.date: 09/01/2020
+  keywords: SCCM,System Center Configuration Manager
+  ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905879"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934047"
 name: Manajer konfigurasi titik akhir Microsoft
 summary: >
   Manajer konfigurasi titik akhir Microsoft mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
@@ -69,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Tertaut \n* [Informasi Layanan](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Detail versi](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Manajer konfigurasi pusat sistem sekarang Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Versi historis](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Apa itu manajer konfigurasi](/mem/configmgr/core/understand/introduction)\n\n\n\nkata kunci: SCCM, manajer konfigurasi pusat sistem"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi pelayanan](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Detail versi](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Manajer konfigurasi pusat sistem sekarang Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Versi historis](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Apa itu manajer konfigurasi](/mem/configmgr/core/understand/introduction)"

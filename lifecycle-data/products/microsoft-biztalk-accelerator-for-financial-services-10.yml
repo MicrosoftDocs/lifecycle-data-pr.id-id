@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Akselerator Microsoft BizTalk untuk layanan keuangan 1,0
-  description: Akselerator Microsoft BizTalk untuk layanan keuangan 1,0 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dbacf7590c1aa3b0736935e033bbc6c3d2968dab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Akselerator Microsoft BizTalk untuk layanan finansial 1,0
+  description: Akselerator Microsoft BizTalk untuk layanan finansial 1,0 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "823588"
-name: Akselerator Microsoft BizTalk untuk layanan keuangan 1,0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935342"
+name: Akselerator Microsoft BizTalk untuk layanan finansial 1,0
 summary: >+
-  Akselerator Microsoft BizTalk untuk layanan keuangan 1,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Akselerator Microsoft BizTalk untuk layanan finansial 1,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
 
 
-  Hal ini berlaku untuk edisi berikut: Enterprise, Standard
+  Berlaku untuk edisi berikut ini: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/12/2003
   endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Standar"
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Standard"
