@@ -2,13 +2,14 @@
 metadata:
   title: 2011 manajer perangkat yang disematkan Windows
   description: Windows Embedded Device Manager 2011 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Client,SDK,Server
+  ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906775"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939930"
 name: 2011 manajer perangkat yang disematkan Windows
 summary: >
   Windows Embedded Device Manager 2011 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Tertaut \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Enterprise \n* Klien\n* ODBC\n* Aden"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Klien\n* SDK\n* Aden"
