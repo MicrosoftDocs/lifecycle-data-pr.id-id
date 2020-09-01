@@ -2,24 +2,25 @@
 metadata:
   title: Solusi Bisnis Microsoft--Great Plains 8,0
   description: Solusi Bisnis Microsoft--Great Plains 8,0 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "823557"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934676"
 name: Solusi Bisnis Microsoft--Great Plains 8,0
 summary: >
   Solusi Bisnis Microsoft--Great Plains 8,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
 
 
-  Hal ini berlaku untuk edisi berikut ini: standar
+  Berlaku untuk edisi berikut ini: Standard
 
 
   > [!IMPORTANT]
 
-  > Dukungan untuk produk ini telah berakhir Oktober 13, 2009
+  > Dukungan untuk produk ini telah berakhir 13 Oktober 2009
 products:
 - dynamics
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2004
   endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Standar"
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Standard"
