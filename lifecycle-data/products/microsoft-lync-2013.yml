@@ -2,19 +2,20 @@
 metadata:
   title: Lync 2013
   description: Lync 2013 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856341"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933344"
 name: Lync 2013
 summary: >+
   Lync 2013 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
 
 
-  Hal ini berlaku untuk edisi berikut: SDK, Standard
+  Ini berlaku untuk edisi berikut: SDK, standar
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Skype untuk bisnis 2015 klien rilis adalah pembaruan untuk Lync 2013 klien dan akan mengikuti siklus hidup produk yang sama.\nTanggal mulai Lync 2013 SDK adalah 23 Februari 2013. \n\n## <a name=\"editions\"></a>Edisi \n* Sdk\n* Standar"
+content: "\n\n> [!NOTE]\n> Rilis klien Skype for Business 2015 adalah pembaruan untuk klien Lync 2013 dan akan mengikuti siklus hidup produk yang sama.\nTanggal mulai Lync 2013 SDK adalah 23 Februari, 2013. \n\n## <a name=\"editions\"></a>Edisi \n* SDK\n* Standard"

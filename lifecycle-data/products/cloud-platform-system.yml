@@ -2,19 +2,20 @@
 metadata:
   title: Sistem platform awan
   description: Sistem platform awan mengikuti kebijakan siklus hidup tetap.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891883"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932049"
 name: Sistem platform awan
 summary: >+
   Sistem platform awan mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
 
 
-  Ini berlaku untuk edisi berikut: standar
+  Berlaku untuk edisi berikut ini: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Dukungan untuk sistem platform awan diperpanjang seperti yang diperlihatkan untuk menyediakan semua pelanggan dengan garis waktu transisi siklus hidup standar.\n> [!NOTE]\n> Standar sistem platform awan diluncurkan pada 18 September 2017.\n\n## <a name=\"editions\"></a>Enterprise \n* Standart"
+content: "\n\n> [!NOTE]\n> Dukungan untuk sistem platform awan diperpanjang seperti yang diperlihatkan untuk menyediakan semua pelanggan dengan garis waktu transisi siklus hidup standar.\n> [!NOTE]\n> Standar sistem platform awan diluncurkan pada 18 September 2017.\n\n## <a name=\"editions\"></a>Edisi \n* Standard"

@@ -2,15 +2,16 @@
 metadata:
   title: Microsoft Internet Security and Acceleration Server 2004
   description: Microsoft Internet Security and Acceleration Server 2004 mengikuti kebijakan siklus hidup tetap.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904197"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933492"
 name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nIni berlaku untuk edisi berikut: Enterprise, Standard\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+summary: "Microsoft Internet Security and Acceleration Server 2004 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nBerlaku untuk edisi berikut ini: Enterprise, Standard\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Tertaut \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n* [Panduan migrasi](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Enterprise \n* Enterprise\n* Standart"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n* [Panduan migrasi](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Standard"
