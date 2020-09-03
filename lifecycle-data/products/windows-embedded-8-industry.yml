@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8 industri
-  description: Industri Windows Embedded 8 mengikuti kebijakan siklus hidup tetap.
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856252"
-name: Windows Embedded 8 industri
+name: Windows Embedded 8 Industry
 summary: >
-  Industri Windows Embedded 8 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Embedded 8 Industry mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
   Hal ini berlaku untuk edisi berikut: Enterprise, Pro
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Link \n* [Memigrasi panduan](https://www.microsoft.com/download/details.aspx?id=40279)\n* [FAQ siklus hidup-produk Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Pro"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Pertanyaan Umum Siklus Hidup - produk Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Pro"
