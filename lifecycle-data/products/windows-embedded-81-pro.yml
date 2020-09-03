@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Jendela tertanam 8,1 Pro
-  description: Windows Embedded 8,1 Pro mengikuti kebijakan siklus hidup tetap.
+  title: Windows Embedded 8.1 Pro
+  description: Windows Embedded 8.1 Pro mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d9ada5810dc20ee1491b24af7ee1e214dcf8678
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856690"
-name: Jendela tertanam 8,1 Pro
+name: Windows Embedded 8.1 Pro
 summary: >+
-  Windows Embedded 8,1 Pro mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Embedded 8.1 Pro mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Link \n* [FAQ siklus hidup-produk Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8,1 FAQ](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup - produk Windows](/lifecycle/faq/windows)\n* [Pertanyaan Umum terkait Windows Embedded 8.1 Pro](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"

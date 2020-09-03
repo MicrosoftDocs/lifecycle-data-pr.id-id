@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2012
-  description: Dynamics C5 2012 mengikuti kebijakan siklus hidup tetap.
+  description: Dynamics C5 2012 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856492"
 name: Dynamics C5 2012
 summary: >+
-  Dynamics C5 2012 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Dynamics C5 2012 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: standar
+  Berlaku untuk edisi berikut ini: Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Standar"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Standard"

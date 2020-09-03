@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2012 R3
-  description: Dynamics AX 2012 R3 mengikuti kebijakan siklus hidup tetap.
+  description: Dynamics AX 2012 R3 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: d321f6b8d10b4c1acf17eb7645030cca46f4f611
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856494"
 name: Dynamics AX 2012 R3
 summary: >+
-  Dynamics AX 2012 R3 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Dynamics AX 2012 R3 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Program migrasi Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Informasi siklus hidup tambahan](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Mainstream dan dukungan diperpanjang telah diperpanjang seperti yang ditunjukkan."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Program Migrasi Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Informasi Siklus Hidup Tambahan](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Dukungan Standar dan yang Diperluas telah diperluas seperti diperlihatkan."

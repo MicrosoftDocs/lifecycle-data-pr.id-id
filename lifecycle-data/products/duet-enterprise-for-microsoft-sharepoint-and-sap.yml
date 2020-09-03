@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Duet Enterprise untuk Microsoft SharePoint dan SAP
-  description: Duet Enterprise untuk Microsoft SharePoint dan SAP mengikuti kebijakan siklus hidup tetap.
+  description: Duet Enterprise untuk Microsoft SharePoint dan SAP mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856500"
 name: Duet Enterprise untuk Microsoft SharePoint dan SAP
-summary: >
-  Duet Enterprise untuk Microsoft SharePoint dan SAP mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
-
-
-
-  > [!IMPORTANT]
-
-  > Dukungan untuk produk ini telah berakhir. Produk ini dijual dan didukung oleh SAP.
+summary: "Duet Enterprise untuk Microsoft SharePoint dan SAP mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed). \n\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. Produk ini dijual dan didukung oleh SAP.\n"
 products:
 - office
 policyType: fixed
@@ -32,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/16/2011
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Link \n* [SAP dukungan](https://support.sap.com/index.html)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Dukungan SAP](https://support.sap.com/index.html)"

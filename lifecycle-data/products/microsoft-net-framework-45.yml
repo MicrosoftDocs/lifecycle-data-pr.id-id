@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 4,5
-  description: Microsoft .NET Framework 4,5 mengikuti kebijakan siklus hidup komponen.
+  title: Microsoft .NET Framework 4.5
+  description: Microsoft .NET Framework 4.5 mengikuti Kebijakan Siklus Hidup Komponen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856336"
-name: Microsoft .NET Framework 4,5
+name: Microsoft .NET Framework 4.5
 summary: >+
-  Microsoft .NET Framework 4,5 mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft .NET Framework 4.5 mengikuti Kebijakan Siklus Hidup [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Link \n* [Siklus hidup FAQ-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informasi produk](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> Dukungan untuk .NET Framework 4, 4,5, dan 4.5.1 berakhir pada 12 Januari 2016."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informasi produk](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> Dukungan untuk .NET Framework 4, 4.5, dan 4.5.1 berakhir pada 12 Januari 2016."
