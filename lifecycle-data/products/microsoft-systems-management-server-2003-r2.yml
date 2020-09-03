@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server manajemen sistem Microsoft 2003 R2
-  description: Microsoft Systems Management Server 2003 R2 mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Systems Management Server 2003 R2
+  description: Microsoft Systems Management Server 2003 R2 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5d1cade536fbdca6669ad3953cf16c07d47c46fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823446"
-name: Server manajemen sistem Microsoft 2003 R2
+name: Microsoft Systems Management Server 2003 R2
 summary: >+
-  Microsoft Systems Management Server 2003 R2 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Systems Management Server 2003 R2 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
