@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 mengikuti kebijakan siklus hidup tetap.
+  description: Windows 8 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/21/2020
   ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906697"
 name: Windows 8
 summary: >
-  Windows 8 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows 8 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi berikut: Enterprise, Enterprise N, N, Pro dengan pusat media, profesional, N profesional, SL
+  Berlaku untuk edisi berikut ini: Enterprise, Enterprise N, N, Pro dengan Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Dukungan untuk produk ini telah berakhir. Pelanggan harus memperbarui ke Windows 8,1 agar tetap didukung.
+  > Dukungan untuk produk ini telah berakhir. Pelanggan harus memperbarui ke Windows 8.1 agar tetap didukung.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Tertaut \n* [FAQ siklus hidup-Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Enterprise \n* Enterprise\n* Enterprise N\n* Gajian\n* Pro dengan pusat media\n* Profesionalisme\n* N profesional\n* SL"
+content: "\n## <a name=\"links\"></a>Tautan \n* [FAQ Siklus Hidup - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Enterprise N\n* N\n* Pro dengan Media Center\n* Professional\n* Professional N\n* SL"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2017
-  description: SQL Server 2017 mengikuti kebijakan siklus hidup tetap.
+  description: SQL Server 2017 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870255"
 name: SQL Server 2017
 summary: >+
-  SQL Server 2017 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  SQL Server 2017 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut: di Linux (semua edisi), pada Windows (semua edisi)
+  Ini berlaku untuk edisi berikut: pada Linux (semua edisi), pada Windows (semua edisi)
 
 products:
 - sql-server
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2017
   endDate: 10/12/2027
-content: "\n## <a name=\"links\"></a>Link \n* [Layanan informasi](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> Dimulai dengan SQL Server 2017, paket layanan tidak akan diluncurkan.\n\n## <a name=\"editions\"></a>Edisi \n* di Linux (semua edisi)\n* pada Windows (semua edisi)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi pelayanan](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> Dimulai dengan SQL Server 2017, tidak ada Paket Layanan yang akan diluncurkan.\n\n## <a name=\"editions\"></a>Edisi \n* pada Linux (semua edisi)\n* pada Windows (semua edisi)"

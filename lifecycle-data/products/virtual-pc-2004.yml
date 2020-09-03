@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2004 PC virtual
-  description: 2004 Virtual PC mengikuti kebijakan siklus hidup tetap.
+  title: Virtual PC 2004
+  description: Virtual PC 2004 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/12/2020
   ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893280"
-name: 2004 PC virtual
+name: Virtual PC 2004
 summary: >
-  2004 Virtual PC mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Virtual PC 2004 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi berikut: Express, Standard
+  Hal ini berlaku untuk edisi berikut: Express, Standard
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express dirilis pada 13 April 2006.\n\n## <a name=\"links\"></a>Tertaut \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Enterprise \n* Resikan\n* Standart"
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express dirilis pada 13 April 2006.\n\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Express\n* Standard"

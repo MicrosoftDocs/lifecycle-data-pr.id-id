@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adapter Microsoft BizTalk untuk host Systems 2,0
-  description: Adapter Microsoft BizTalk untuk sistem host 2,0 mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft BizTalk Adapters untuk Host Systems 2.0
+  description: Microsoft BizTalk Adapters untuk Host Systems 2.0 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893502"
-name: Adapter Microsoft BizTalk untuk host Systems 2,0
+name: Microsoft BizTalk Adapters untuk Host Systems 2.0
 summary: >+
-  Adapter Microsoft BizTalk untuk sistem host 2,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft BizTalk Adapters untuk Host Systems 2.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi berikut: pengembang, standar
+  Hal ini berlaku untuk edisi berikut: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Tertaut \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Enterprise \n* Pengembangan\n* Standart"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Edisi \n* Pengembang\n* Standard"
