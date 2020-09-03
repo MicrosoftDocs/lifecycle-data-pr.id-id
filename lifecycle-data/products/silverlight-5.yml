@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Silverlight 5
-  description: Silverlight 5 mengikuti kebijakan siklus hidup tetap.
+  description: Silverlight 5 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870210"
 name: Silverlight 5
 summary: >+
-  Silverlight 5 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Silverlight 5 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Link \n* [Silverlight 5 akan mendukung browser yang tercantum di sini melalui 10/12/2021, atau melalui siklus hidup dari browser yang mendasari, mana yang lebih pendek.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Akhir Silverlight dukungan](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft akan memberikan minimal 12 bulan pemberitahuan sebelum mengakhiri dukungan untuk alat."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Silverlight 5 mendukung peramban yang tercantum di sini hingga 12 Oktober 2021, atau melalui siklus hidup peramban, mana yang lebih singkat.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Akhir Dukungan Silverlight](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft akan memberikan pemberitahuan minimal 12 bulan sebelum berakhirnya dukungan untuk Alat."

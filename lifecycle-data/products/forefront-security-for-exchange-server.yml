@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Keamanan Forefront untuk server Exchange
-  description: Forefront Security for Exchange Server mengikuti kebijakan siklus hidup tetap.
+  title: Forefront Security untuk Exchange Server
+  description: Forefront Security untuk Exchange Server mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/12/2020
   ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893724"
-name: Keamanan Forefront untuk server Exchange
+name: Forefront Security untuk Exchange Server
 summary: >
-  Forefront Security for Exchange Server mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Forefront Security untuk Exchange Server mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Peta strategi untuk produk keamanan di bawah merek Forefront telah berubah. Produk ini dihentikan pada 31 Desember 2015.
+  > Peta jalan untuk produk keamanan di bawah merek Forefront telah berubah. Produk ini dihentikan pada tanggal 31 Desember 2015.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Tertaut \n* [Panduan migrasi](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://www.microsoft.com/security/business/explore/cybersecurity)"

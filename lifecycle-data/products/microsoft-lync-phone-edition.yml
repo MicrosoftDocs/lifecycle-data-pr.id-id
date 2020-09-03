@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Edisi telepon Microsoft Lync
-  description: Microsoft Lync edisi telepon mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Lync Edisi Telepon
+  description: Microsoft Lync Phone Edition mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879509"
-name: Edisi telepon Microsoft Lync
+name: Microsoft Lync Edisi Telepon
 summary: >+
-  Microsoft Lync edisi telepon mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Lync Phone Edition mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Link \n* [Informasi Tambahan](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Edisi telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk edisi telepon Lync telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup 2013 Lync Server."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi Tambahan](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Edisi Telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk Edisi Telepon Lync telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup Lync Server 2013."

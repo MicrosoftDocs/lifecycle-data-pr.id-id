@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Mobile, dirilis pada bulan April 2017
-  description: Windows 10 Mobile, yang dirilis pada bulan April 2017 mengikuti kebijakan siklus hidup tetap.
+  description: Windows 10 Mobile, dirilis April 2017 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: d0342a513e9223085885577a70a595292c7b43ce
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870196"
 name: Windows 10 Mobile, dirilis pada bulan April 2017
 summary: >
-  Windows 10 Mobile, yang dirilis pada bulan April 2017 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows 10 Mobile, dirilis April 2017 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 04/25/2017
   endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>Link \n* [FAQ siklus hidup perangkat OS](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile berakhir dukungan pada 10 Desember 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup OS Perangkat](/lifecycle/faq/device-operating-systems)\n* [Akhir dukungan Windows 10 Mobile tanggal 10 Desember 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

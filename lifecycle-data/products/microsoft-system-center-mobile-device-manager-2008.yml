@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
-  description: Microsoft System Center Mobile Device Manager 2008 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft System Center Mobile Device Manager 2008 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906286"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center Mobile Device Manager 2008 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft System Center Mobile Device Manager 2008 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi berikut: semua yang berlaku, wSQL
+  Hal ini berlaku untuk edisi berikut: Semua yang berlaku, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Tertaut \n* [Panduan migrasi](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Enterprise \n* Semua yang berlaku\n* wSQL"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Semua yang berlaku\n* wSQL"
