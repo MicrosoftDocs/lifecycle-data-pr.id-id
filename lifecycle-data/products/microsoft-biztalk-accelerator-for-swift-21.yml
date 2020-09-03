@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Akselerator Microsoft BizTalk untuk SWIFT 2,1
-  description: Akselerator Microsoft BizTalk untuk SWIFT 2,1 mengikuti kebijakan siklus hidup tetap.
+  title: Akselerator Microsoft BizTalk untuk SWIFT 2.1
+  description: Akselerator Microsoft BizTalk untuk SWIFT 2.1 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 873f0dd00819c1df249d891f180e311b31e63a83
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823578"
-name: Akselerator Microsoft BizTalk untuk SWIFT 2,1
+name: Akselerator Microsoft BizTalk untuk SWIFT 2.1
 summary: >+
-  Akselerator Microsoft BizTalk untuk SWIFT 2,1 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Akselerator Microsoft BizTalk untuk SWIFT 2.1 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut: Enterprise, Standard
+  Berlaku untuk edisi berikut ini: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/21/2005
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Link \n* [Kebijakan Paket Layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Perusahaan\n* Standar"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Standard"

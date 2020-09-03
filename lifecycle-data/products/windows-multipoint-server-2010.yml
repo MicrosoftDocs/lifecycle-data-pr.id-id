@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server MultiPoint 2010
-  description: Windows MultiPoint Server 2010 mengikuti kebijakan siklus hidup tetap.
+  title: Windows MultiPoint Server 2010
+  description: Windows MultiPoint Server 2010 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823372"
-name: Windows Server MultiPoint 2010
+name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows MultiPoint Server 2010 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: akademik, standar
+  Hal ini berlaku untuk edisi berikut: Academic, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://aka.ms/AA1ovn4)\n* [Panduan migrasi tambahan](/windows-server/get-started/installation-and-upgrade)\n* [Informasi produk](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Edisi \n* Akademik\n* Standar"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://aka.ms/AA1ovn4)\n* [Panduan migrasi tambahan](/windows-server/get-started/installation-and-upgrade)\n* [Informasi produk](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Edisi \n* Akademik\n* Standard"

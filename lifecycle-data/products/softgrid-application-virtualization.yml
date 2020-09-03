@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Aplikasi SoftGrid virtualisasi
-  description: Virtualisasi aplikasi SoftGrid mengikuti kebijakan siklus hidup tetap.
+  title: Virtualisasi Aplikasi SoftGrid
+  description: Virtualisasi Aplikasi SoftGrid mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822886"
-name: Aplikasi SoftGrid virtualisasi
+name: Virtualisasi Aplikasi SoftGrid
 summary: >
-  Virtualisasi aplikasi SoftGrid mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Virtualisasi Aplikasi SoftGrid mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Hal ini berlaku untuk edisi berikut ini: 4,1 untuk desktop, 4,2 untuk desktop, Layanan Terminal 4,1
+  Berlaku untuk edisi berikut ini: 4.1 untuk Desktop, 4.2 untuk Desktop, untuk Layanan Terminal 4.1
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Edisi \n* 4,1 untuk desktop\n* 4,2 untuk desktop\n* untuk layanan Terminal 4,1"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Edisi \n* 4.1 untuk Desktop\n* 4.2 untuk Desktop\n* untuk Layanan Terminal 4.1"

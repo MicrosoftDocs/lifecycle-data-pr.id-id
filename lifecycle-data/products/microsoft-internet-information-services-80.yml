@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Layanan informasi Microsoft Internet 8,0
-  description: Microsoft Internet Information Services 8,0 mengikuti kebijakan siklus hidup komponen.
+  title: Microsoft Internet Information Services 8.0
+  description: Microsoft Internet Information Services 8.0 mengikuti Kebijakan Siklus Hidup Komponen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822941"
-name: Layanan informasi Microsoft Internet 8,0
+name: Microsoft Internet Information Services 8.0
 summary: >+
-  Microsoft Internet Information Services 8,0 mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft Internet Information Services 8.0 mengikuti Kebijakan Siklus [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Rilis ini dikenal sebagai komponen yang mengikuti siklus hidup dukungan dari induk produk utama, Windows Server 2012 dan Windows 8\n\n## <a name=\"links\"></a>Link \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Jendela 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Rilis ini dikenal sebagai Komponen yang mengikuti Dukungan Siklus Hidup Produk Utama induknya, Windows Server 2012 dan Windows 8\n\n## <a name=\"links\"></a>Tautan \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"

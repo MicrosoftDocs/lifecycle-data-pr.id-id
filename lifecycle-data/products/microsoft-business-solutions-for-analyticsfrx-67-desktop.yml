@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Solusi Bisnis Microsoft untuk Analytics--FRx 6,7 desktop
-  description: Solusi Bisnis Microsoft untuk Analytics--FRx 6,7 desktop mengikuti kebijakan siklus hidup tetap.
+  title: Solusi Bisnis Microsoft untuk Analytics--FRx 6.7 Desktop
+  description: Solusi Bisnis Microsoft untuk Analytics--FRx 6.7 Desktop mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823556"
-name: Solusi Bisnis Microsoft untuk Analytics--FRx 6,7 desktop
-summary: >+
-  Solusi Bisnis Microsoft untuk Analytics--6,7 FRx desktop mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
-
-
+name: Solusi Bisnis Microsoft untuk Analytics--FRx 6.7 Desktop
+summary: "Solusi Bisnis Microsoft untuk Analytics--FRx 6.7 Desktop mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed). \n\n\n"
 products:
 - dynamics
 policyType: fixed
@@ -25,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2004
   endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> Dukungan FRx berakhir pada tanggal yang ditunjukkan kecuali didistribusikan sebagai komponen produk Dynamics. Ketika didistribusikan dengan produk Dynamics, tanggal siklus hidup Dynamics menimpa tanggal FRx."
+content: "\n\n> [!NOTE]\n> Dukungan FRx berakhir pada tanggal yang ditunjukkan kecuali didistribusikan sebagai sebuah Komponen dari produk Dynamics. Ketika didistribusikan dengan produk Dynamics, tanggal siklus hidup Dynamics berlaku dan membatalkan tanggal FRx."

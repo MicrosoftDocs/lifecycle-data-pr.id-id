@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamika 9,0 GreatPlains
-  description: Dynamics 9,0 GreatPlains mengikuti kebijakan siklus hidup tetap.
+  title: Dynamics 9.0 GreatPlains
+  description: Dynamics 9.0 GreatPlains mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822965"
-name: Dinamika 9,0 GreatPlains
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9,0 GreatPlains mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Dynamics 9.0 GreatPlains mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 
