@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Groove 3,1
+  description: Groove 3,1 mengikuti kebijakan siklus hidup tetap.
+  ms.date: 09/03/2020
+  keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
+  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
+  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.translationtype: MT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "950845"
+name: Groove 3,1
+summary: >+
+  Groove 3,1 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+
+
+  Ini berlaku untuk edisi berikut: Layanan pencadangan perusahaan, jembatan data perusahaan, server Relai perusahaan, Layanan manajemen yang dihosting, Layanan relay yang dihosting, proyek Office, berbagi file Office virtual, Office Professional virtual, kit pengembangan layanan web
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2004
+  end: 04/16/2010
+releases:
+- version: Original Release
+  startDate: 07/01/2004
+  endDate: 04/16/2010
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Layanan pencadangan perusahaan\n* Jembatan data perusahaan\n* Server Relai perusahaan\n* Layanan manajemen yang dihosting\n* Layanan Relai yang dihosting\n* Proyek Office\n* Berbagi file Office virtual\n* Profesional Office virtual\n* Kit pengembangan layanan web"
