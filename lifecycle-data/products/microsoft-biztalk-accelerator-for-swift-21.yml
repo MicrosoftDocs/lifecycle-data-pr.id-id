@@ -2,13 +2,14 @@
 metadata:
   title: Akselerator Microsoft BizTalk untuk SWIFT 2.1
   description: Akselerator Microsoft BizTalk untuk SWIFT 2.1 mengikuti Kebijakan Siklus Hidup Tetap.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 873f0dd00819c1df249d891f180e311b31e63a83
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4690a58d3edb34b38381bf2afc596f0086952daf
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "823578"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000095"
 name: Akselerator Microsoft BizTalk untuk SWIFT 2.1
 summary: >+
   Akselerator Microsoft BizTalk untuk SWIFT 2.1 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
