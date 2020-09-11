@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Informasi Siklus Hidup Produk dan Layanan Pencarian (Pratinjau)
+title: Cari informasi Siklus Hidup Layanan dan Produk
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Halaman ini sedang dalam pengembangan dan akan aktif sepenuhnya pada tanggal 2 September. Sementara itu, Anda dapat melihat daftar lengkap produk Microsoft dengan dukungan waktu lini dan perincian di [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/). \n> [!NOTE]\n> Ekspor informasi siklus hidup dari halaman [Ekspor Siklus Hidup](/lifecycle/export/products). \n\n\nSiklus Hidup Microsoft menyediakan panduan konsisten dan dapat diprediksi untuk dukungan sepanjang masa pakai produk, membantu pelanggan mengelola investasi dan lingkungan IT mereka sambil merencanakan secara strategis untuk masa depan.\n\n\nCari di bawah ini untuk daftar produk dan layanan komersial Microsoft, lalu pilih hasil Anda untuk menemukan lini waktu dukungan dan layanan, pembaruan yang diperlukan, informasi migrasi, dan persyaratan sistem."
+summary: "\n> [!NOTE]\n> Ekspor informasi siklus hidup dari halaman [Ekspor Siklus Hidup](/lifecycle/products/export).\n\n\nSiklus Hidup Microsoft menyediakan panduan konsisten dan dapat diprediksi untuk dukungan sepanjang masa pakai produk, membantu pelanggan mengelola investasi dan lingkungan IT mereka sambil merencanakan secara strategis untuk masa depan.\n\n\nCari di bawah ini untuk daftar produk dan layanan komersial Microsoft, lalu pilih hasil Anda untuk menemukan lini waktu dukungan dan layanan, pembaruan yang diperlukan, informasi migrasi, dan persyaratan sistem."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899843"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943037"
