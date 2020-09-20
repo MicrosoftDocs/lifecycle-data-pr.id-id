@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Softgrid untuk terminal server (MDOP)
-  description: Softgrid untuk terminal server (MDOP) mengikuti kebijakan siklus hidup tetap.
+  title: Softgrid untuk Server Terminal (MDOP)
+  description: Softgrid untuk Server Terminal (MDOP) mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822884"
-name: Softgrid untuk terminal server (MDOP)
-summary: >+
-  Softgrid untuk terminal server (MDOP) mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
-
-
+name: Softgrid untuk Server Terminal (MDOP)
+summary: "Softgrid untuk Server Terminal (MDOP) mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed). \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -24,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Link \n* [Siklus hidup FAQ-Umum](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Mengecualikan versi sebelumnya de-didukung. Dukungan untuk produk ini tunduk pada persyaratan akuisisi."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup - Umum](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Mengecualikan versi yang sebelumnya sudah tak didukung. Dukungan untuk produk ini tunduk pada ketentuan akuisisinya."

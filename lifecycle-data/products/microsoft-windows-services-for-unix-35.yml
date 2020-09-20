@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Layanan Microsoft Windows untuk UNIX 3,5
-  description: Layanan Microsoft Windows untuk UNIX 3,5 mengikuti kebijakan siklus hidup komponen.
+  title: Layanan Microsoft Windows untuk UNIX 3.5
+  description: Layanan Microsoft Windows untuk UNIX 3.5 mengikuti Kebijakan Siklus Hidup Komponen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 55f7940da408533190f0d2c0fdb2d323e983a9e4
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822897"
-name: Layanan Microsoft Windows untuk UNIX 3,5
-summary: "Layanan Microsoft Windows untuk UNIX 3,5 mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .\n\n\n> [!IMPORTANT]\n> Dukungan telah berakhir. \n"
+name: Layanan Microsoft Windows untuk UNIX 3.5
+summary: "Layanan Microsoft Windows untuk UNIX 3.5 mengikuti Kebijakan Siklus Hidup [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).\n\n\n> [!IMPORTANT]\n> Dukungan telah berakhir. \n"
 products:
 - windows
 policyType: component

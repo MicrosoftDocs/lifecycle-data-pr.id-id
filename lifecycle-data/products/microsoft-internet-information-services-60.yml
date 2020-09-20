@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Layanan informasi Microsoft Internet 6,0
-  description: Microsoft Internet Information Services 6,0 mengikuti kebijakan siklus hidup komponen.
+  title: Microsoft Internet Information Services 6.0
+  description: Microsoft Internet Information Services 6.0 mengikuti Kebijakan Siklus Hidup Komponen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9fa80841324fc24ce8644f57af455c1a512c817f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823507"
-name: Layanan informasi Microsoft Internet 6,0
+name: Microsoft Internet Information Services 6.0
 summary: >+
-  Microsoft Internet Information Services 6,0 mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft Internet Information Services 6.0 mengikuti Kebijakan Siklus [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/28/2003
-content: "\n\n> [!NOTE]\n> Rilis ini dikenal sebagai komponen yang mengikuti siklus hidup dukungan dari induk produk utama, Windows Server 2003"
+content: "\n\n> [!NOTE]\n> Rilis ini dikenal sebagai Komponen yang mengikuti Siklus Hidup Dukungan Produk Utama induknya, Windows Server 2003"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtual PC untuk Mac
-  description: Virtual PC untuk Mac mengikuti kebijakan siklus hidup tetap.
+  title: PC Virtual untuk Mac
+  description: PC Virtual untuk Mac mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823406"
-name: Virtual PC untuk Mac
+name: PC Virtual untuk Mac
 summary: >+
-  Virtual PC untuk Mac mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  PC Virtual untuk Mac mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2003
   endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Termasuk versi 5,01, versi 5,02, versi 5,03, versi 5,04, versi 6,01, versi 6,02, versi 6,1, versi 6.1.1 memperbarui, versi 7, versi 7,01"
+content: "\n\n> [!NOTE]\n> Termasuk Versi 5.01, Versi 5.02, Versi 5.03, Versi 5.04, Versi 6.01, Versi 6.02, Versi 6.1, Versi Pembaruan 6.1.1, Versi 7, Versi 7.01"

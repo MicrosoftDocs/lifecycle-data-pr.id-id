@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Layanan Visio di SharePoint online
-  description: Layanan Visio di SharePoint online mengikuti kebijakan siklus hidup modern.
+  title: Layanan Visio di SharePoint Online
+  description: Layanan Visio di SharePoint Online mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823038"
-name: Layanan Visio di SharePoint online
-summary: >+
-  Layanan Visio di SharePoint online mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
-
-
+name: Layanan Visio di SharePoint Online
+summary: "Layanan Visio di SharePoint Online mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern). \n\n\n"
 products:
 - office
 policyType: modern-online
@@ -24,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 04/16/2010
   endDate: 09/30/2020
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"
