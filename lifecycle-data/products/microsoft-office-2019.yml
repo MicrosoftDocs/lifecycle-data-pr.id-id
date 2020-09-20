@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019
-  description: Microsoft Office 2019 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft Office 2019 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
   ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930384"
 name: Microsoft Office 2019
 summary: >+
-  Microsoft Office 2019 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Office 2019 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi berikut: rumah dan bisnis, rumah dan pelajar, pribadi, profesional, akademik profesional, profesional Plus, standar
+  Hal ini berlaku untuk edisi berikut: Home dan Business, Home dan Student, Personal, Professional, Professional Academic, Professional Plus, Standard
 
 products:
 - office

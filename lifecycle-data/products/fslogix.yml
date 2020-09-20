@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: FSLogix
-  description: FSLogix mengikuti kebijakan siklus hidup modern.
+  description: FSLogix mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: 22f58db08e156a88911a67899e81a054683a0d34
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856396"
 name: FSLogix
 summary: >+
-  FSLogix mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  FSLogix mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2016
   endDate: 09/01/2019
-content: "\n## <a name=\"links\"></a>Link \n* [Download dan install FSLogix](/fslogix/install-ht)\n* [Dukungan FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Dukungan untuk produk ini tunduk pada persyaratan akuisisi."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Unduh dan instal FSLogix](/fslogix/install-ht)\n* [Dukungan FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Dukungan untuk produk ini tunduk pada ketentuan akuisisinya."

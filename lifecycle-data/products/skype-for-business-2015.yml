@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype untuk bisnis 2015
-  description: Skype for Business 2015 mengikuti kebijakan siklus hidup tetap.
+  title: Skype untuk Bisnis 2015
+  description: Skype untuk Business 2015 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856613"
-name: Skype untuk bisnis 2015
+name: Skype untuk Bisnis 2015
 summary: >+
-  Skype for Business 2015 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Skype untuk Business 2015 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Klien: Skype untuk bisnis 2015 klien rilis adalah pembaruan untuk Lync 2013 klien dan akan mengikuti siklus hidup produk yang sama."
+content: "\n\n> [!NOTE]\n> Client: Rilis Skype untuk Business 2015 Client adalah sebuah pembaruan untuk Lync 2013 Client dan akan mengikuti siklus hidup produk yang sama."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Inti kerangka kerja entitas
-  description: Entity Framework Core mengikuti kebijakan siklus hidup modern.
+  title: Entity Framework Core
+  description: Entity Framework Core mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856559"
-name: Inti kerangka kerja entitas
+name: Entity Framework Core
 summary: >+
-  Entity Framework Core mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Entity Framework Core mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Link \n* [Siklus hidup FAQ-.NET Core](/lifecycle/faq/dotnet-core)\n* [Layanan informasi](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Peta jalan .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum seputar Siklus Hidup - .NET Core](/lifecycle/faq/dotnet-core)\n* [Informasi pelayanan](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Peta jalan .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"

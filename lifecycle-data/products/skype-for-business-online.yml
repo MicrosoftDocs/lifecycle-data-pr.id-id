@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype untuk bisnis online
-  description: Skype for Business Online mengikuti kebijakan siklus hidup modern.
+  title: Skype for Business Online
+  description: Skype untuk Business Online mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856611"
-name: Skype untuk bisnis online
+name: Skype for Business Online
 summary: >
-  Skype for Business Online mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Skype untuk Business Online mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > Layanan ini akan pensiun pada tanggal 31 Juli 2021. Lihat di bawah untuk panduan migrasi.
+  > Layanan ini akan dihentikan pada 31 Juli 2021. Lihat di bawah untuk panduan migrasi.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>Link \n* [Panduan migrasi](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/MicrosoftTeams/upgrade-start-here)"
