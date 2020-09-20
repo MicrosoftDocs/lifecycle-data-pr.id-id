@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2,0 Virtualisasi Desktop Microsoft Enterprise
-  description: 2,0 Virtualisasi Desktop Microsoft Enterprise mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Enterprise Desktop Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization 2.0 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933899"
-name: 2,0 Virtualisasi Desktop Microsoft Enterprise
+name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  2,0 Virtualisasi Desktop Microsoft Enterprise mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Enterprise Desktop Virtualization 2.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
   Berlaku untuk edisi berikut ini: Enterprise

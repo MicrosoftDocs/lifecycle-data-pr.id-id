@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2011 manajer perangkat yang disematkan Windows
-  description: Windows Embedded Device Manager 2011 mengikuti kebijakan siklus hidup tetap.
+  title: Windows Embedded Device Manager 2011
+  description: Windows Embedded Device Manager 2011 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939930"
-name: 2011 manajer perangkat yang disematkan Windows
+name: Windows Embedded Device Manager 2011
 summary: >
-  Windows Embedded Device Manager 2011 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Embedded Device Manager 2011 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi berikut: klien, SDK, server
+  Ini berlaku untuk edisi berikut: Client, SDK, Server
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Klien\n* SDK\n* Aden"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Klien\n* SDK\n* Server"

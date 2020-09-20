@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2005
-  description: Microsoft Office Communicator 2005 mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft Office Communicator 2005 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936267"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nBerlaku untuk edisi berikut ini: Standard\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+summary: "Microsoft Office Communicator 2005 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).\n\nBerlaku untuk edisi berikut ini: Standard\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
 products:
 - office
 policyType: fixed

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Microsoft 365 mengikuti kebijakan siklus hidup modern.
+  description: Microsoft 365 mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935971"
 name: Microsoft 365
 summary: >+
-  Microsoft 365 mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Microsoft 365 mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
-  Ini berlaku untuk edisi berikut: Bisnis, pendidikan, perusahaan, pemerintah
+  Ini berlaku untuk edisi berikut: Business, Education, Enterprise, Government
 
 products:
 - office
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Tautan \n* [Peta strategi Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Persyaratan sistem](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Edisi \n* Business\n* Education\n* Enterprise\n* BL"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Peta Jalan Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Persyaratan sistem](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Edisi \n* Business\n* Education\n* Enterprise\n* Government"
