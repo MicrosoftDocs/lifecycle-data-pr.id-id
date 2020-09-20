@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 bisnis pusat lokal (kebijakan tetap)
-  description: Dynamics 365 bisnis sentral lokal (kebijakan tetap) mengikuti kebijakan siklus hidup tetap.
+  title: Dynamics 365 Business Central on-premises (Kebijakan Tetap)
+  description: Dynamics 365 Business Central on-premises (Kebijakan Tetap) mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: eec6e6713736926961ab8bdd81b36fcbdeaf3dec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870140"
-name: Dynamics 365 bisnis pusat lokal (kebijakan tetap)
+name: Dynamics 365 Business Central on-premises (Kebijakan Tetap)
 summary: >+
-  Dynamics 365 bisnis sentral lokal (kebijakan tetap) mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Dynamics 365 Business Central on-premises (Kebijakan Tetap) mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:

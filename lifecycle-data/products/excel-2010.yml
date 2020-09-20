@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2010
-  description: Excel 2010 mengikuti kebijakan siklus hidup tetap.
+  description: Excel 2010 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
   ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931605"
 name: Excel 2010
 summary: >+
-  Excel 2010 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Excel 2010 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi berikut: Home and Student, Mobile, Standard
+  Ini berlaku untuk edisi berikut: Home dan Student, Mobile, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/DeployOffice/office-2010-end-support-roadmap)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Rumah dan Pelajar\n* Handphone\n* Standard"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/DeployOffice/office-2010-end-support-roadmap)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Rumah dan Pelajar\n* Mobile\n* Standard"

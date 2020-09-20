@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 perdagangan
-  description: Dynamics 365 Commerce mengikuti kebijakan siklus hidup modern.
+  title: Dynamics 365 Commerce
+  description: Dynamics 365 Commerce mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: caa3896b6ce5390654a79c694a018b6e5471d0ec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870147"
-name: Dynamics 365 perdagangan
+name: Dynamics 365 Commerce
 summary: >+
-  Dynamics 365 Commerce mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Dynamics 365 Commerce mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/01/2017
-content: "\n## <a name=\"links\"></a>Link \n* [Peta jalan Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Untuk informasi lebih lanjut tentang perubahan nama](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 ritel sekarang Dynamics 365 perdagangan"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Peta Jalan Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Untuk informasi lebih lanjut tentang perubahan nama](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail sekarang menjadi Dynamics 365 Commerce"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rapat Office Live
-  description: Office Live Meeting mengikuti kebijakan siklus hidup modern.
+  title: Office Live Meeting
+  description: Office Live Meeting mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928904"
-name: Rapat Office Live
-summary: "Office Live Meeting mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .\n\nBerlaku untuk edisi berikut ini: Standard\n\n> [!IMPORTANT]\n> Dukungan untuk layanan ini telah berakhir. Lihat panduan migrasi di bawah. \n"
+name: Office Live Meeting
+summary: "Office Live Meeting mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern)\n\nBerlaku untuk edisi berikut ini: Standard\n\n> [!IMPORTANT]\n> Dukungan untuk layanan ini telah berakhir. Lihat panduan migrasi di bawah. \n"
 products:
 - office
 policyType: modern-online
