@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gen
-  description: Ekspresi mengikuti kebijakan siklus hidup tetap.
+  title: Expression
+  description: Expressions mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio
   ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936230"
-name: Gen
-summary: "Ekspresi mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nIni berlaku untuk edisi berikut: Blend, Desain, Encoder, studio\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+name: Expression
+summary: "Expression mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).\n\nBerlaku untuk edisi berikut ini: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Tanggal mulai untuk ekspresi Blend adalah 13 Juli, 2007. \n\n## <a name=\"editions\"></a>Edisi \n* Berpadu\n* Desain\n* Peng\n* Studio"
+content: "\n\n> [!NOTE]\n> Tanggal mulai untuk Expression Blend adalah 13 Juli 2007. \n\n## <a name=\"editions\"></a>Edisi \n* Blend\n* Design\n* Encoder\n* Studio"

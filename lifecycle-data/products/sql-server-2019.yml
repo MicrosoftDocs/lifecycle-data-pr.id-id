@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2019
-  description: SQL Server 2019 mengikuti kebijakan siklus hidup tetap.
+  description: SQL Server 2019 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: on Linux (all editions),on Windows (all editions)
   ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937969"
 name: SQL Server 2019
 summary: >+
-  SQL Server 2019 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  SQL Server 2019 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi berikut: di Linux (semua edisi), di Windows (semua edisi)
+  Ini berlaku untuk edisi berikut: pada Linux (semua edisi), pada Windows (semua edisi)
 
 products:
 - sql-server
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2019
   endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi pelayanan](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Edisi \n* di Linux (semua edisi)\n* di Windows (semua edisi)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi pelayanan](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Edisi \n* pada Linux (semua edisi)\n* pada Windows (semua edisi)"

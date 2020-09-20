@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server Penyimpanan Windows 2016
-  description: Server Penyimpanan Windows 2016 mengikuti kebijakan siklus hidup tetap.
+  title: Windows Storage Server 2016
+  description: Windows Storage Server 2016 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938968"
-name: Server Penyimpanan Windows 2016
+name: Windows Storage Server 2016
 summary: >+
-  Server Penyimpanan Windows 2016 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Storage Server 2016 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Standard, Workgroup
+  Hal ini berlaku untuk edisi berikut: Standard, Workgroup
 
 products:
 - windows
