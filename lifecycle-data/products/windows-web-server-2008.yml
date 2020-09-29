@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server web Windows 2008
-  description: Windows Web Server 2008 mengikuti kebijakan siklus hidup tetap.
+  title: Windows Web Server 2008
+  description: Windows Web Server 2008 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938894"
-name: Server web Windows 2008
+name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Web Server 2008 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
   Berlaku untuk edisi berikut ini: Standard
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Per Windows Server 2008 Service Pack 2, produk ini berakhir pada dukungan pada 14 Januari 2020.\n\n## <a name=\"editions\"></a>Edisi \n* Standard"
+content: "\n\n> [!NOTE]\n> Per Windows Server 2008 Service Pack 2, produk ini mencapai akhir masa dukungan pada tanggal 14 Januari 2020.\n\n## <a name=\"editions\"></a>Edisi \n* Standard"
