@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Konsol manajemen keamanan Microsoft Forefront Server
-  description: Microsoft Forefront Server Security Management Console mengikuti kebijakan siklus hidup tetap.
+  title: Konsol Manajemen Keamanan Server Microsoft Forefront
+  description: Konsol Manajemen Keamanan Server Microsoft Forefront mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823514"
-name: Konsol manajemen keamanan Microsoft Forefront Server
+name: Konsol Manajemen Keamanan Server Microsoft Forefront
 summary: >+
-  Microsoft Forefront Server Security Management Console mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Konsol Manajemen Keamanan Server Microsoft Forefront mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:

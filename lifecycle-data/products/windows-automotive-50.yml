@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Jendela otomotif 5,0
-  description: Windows Automotive 5,0 mengikuti kebijakan siklus hidup tetap.
+  title: Windows Automotive 5.0
+  description: Windows Automotive 5.0 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: a4f2c864058596a97be1ad6430eded5ccb422803
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822861"
-name: Jendela otomotif 5,0
+name: Windows Automotive 5.0
 summary: >
-  Windows Automotive 5,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Automotive 5.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 

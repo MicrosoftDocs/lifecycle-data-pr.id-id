@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Word 2004 untuk Mac
-  description: Microsoft Word 2004 untuk Mac mengikuti kebijakan siklus hidup tetap.
+  description: Microsoft Word 2004 untuk Mac mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 043ba3e5d96ecd646c431b32b300d1d277ba577d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823436"
 name: Microsoft Word 2004 untuk Mac
-summary: "Microsoft Word 2004 untuk Mac mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+summary: "Microsoft Word 2004 untuk Mac mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
 products:
 - office
 policyType: fixed-mainstream-only

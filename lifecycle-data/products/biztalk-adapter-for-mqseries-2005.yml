@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Adapter BizTalk untuk MQSeries 2005
-  description: Adapter BizTalk untuk MQSeries 2005 mengikuti kebijakan siklus hidup tetap.
+  description: Adapter BizTalk untuk MQSeries 2005 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823792"
 name: Adapter BizTalk untuk MQSeries 2005
 summary: >+
-  Adapter BizTalk untuk MQSeries 2005 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Adapter BizTalk untuk MQSeries 2005 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
