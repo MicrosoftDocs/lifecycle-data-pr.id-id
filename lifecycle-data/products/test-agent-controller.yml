@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Uji agen, pengontrol
-  description: Uji agen, pengontrol mengikuti kebijakan siklus hidup komponen.
+  title: Test Agent, Controller
+  description: Test Agent, Controller mengikuti Kebijakan Siklus Hidup Komponen.
   ms.date: 08/13/2020
   ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
   ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/14/2020
   ms.locfileid: "894966"
-name: Uji agen, pengontrol
+name: Test Agent, Controller
 summary: >+
-  Uji agen, pengontrol mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Test Agent, Controller mengikuti Kebijakan Siklus Hidup [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Audit Microsoft Office dan kontrol manajemen server 2013
-  description: Audit Microsoft Office dan kontrol manajemen server 2013 mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Office Audit dan Control Management Server 2013
+  description: Microsoft Office Audit dan Control Management Server 2013 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907914"
-name: Audit Microsoft Office dan kontrol manajemen server 2013
+name: Microsoft Office Audit dan Control Management Server 2013
 summary: >+
-  Audit Microsoft Office dan kontrol manajemen server 2013 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Office Audit dan Control Management Server 2013 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:

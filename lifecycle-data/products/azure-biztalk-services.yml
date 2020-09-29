@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Layanan Azure BizTalk
-  description: Azure BizTalk Services mengikuti kebijakan siklus hidup modern.
+  title: Azure BizTalk Services
+  description: Azure BizTalk Services mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904203"
-name: Layanan Azure BizTalk
+name: Azure BizTalk Services
 summary: >+
-  Azure BizTalk Services mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Azure BizTalk Services mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Tertaut \n* [Panduan migrasi](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://azure.microsoft.com/services/biztalk-services)"

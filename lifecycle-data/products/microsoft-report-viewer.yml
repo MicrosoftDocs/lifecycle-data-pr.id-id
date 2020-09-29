@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Penampil laporan Microsoft
-  description: Microsoft Report Viewer mengikuti kebijakan siklus hidup modern.
+  title: Microsoft Report Viewer
+  description: Microsoft Report Viewer mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904922"
-name: Penampil laporan Microsoft
+name: Microsoft Report Viewer
 summary: >+
-  Microsoft Report Viewer mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Microsoft Report Viewer mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 products:
