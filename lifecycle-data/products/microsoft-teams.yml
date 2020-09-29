@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Tim Microsoft
-  description: Microsoft teams mengikuti kebijakan siklus hidup modern.
+  title: Microsoft Teams
+  description: Microsoft Teams mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856652"
-name: Tim Microsoft
+name: Microsoft Teams
 summary: >+
-  Microsoft teams mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Microsoft Teams mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Link \n* [Persyaratan sistem](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Layanan informasi](/microsoftteams/teams-client-update)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Persyaratan sistem](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Informasi pelayanan](/microsoftteams/teams-client-update)"

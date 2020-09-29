@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype ruang sistem v2
-  description: Skype Room Systems v2 mengikuti kebijakan siklus hidup modern.
+  title: Skype Room Systems v2
+  description: Skype Room Systems v2 mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856609"
-name: Skype ruang sistem v2
+name: Skype Room Systems v2
 summary: >+
-  Skype Room Systems v2 mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Skype Room Systems v2 mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/18/2016
-content: "\n## <a name=\"links\"></a>Link \n* [Layanan informasi](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi pelayanan](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

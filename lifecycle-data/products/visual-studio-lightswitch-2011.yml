@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio LightSwitch 2011
-  description: Visual Studio LightSwitch 2011 mengikuti kebijakan siklus hidup tetap.
+  description: Visual Studio LightSwitch 2011 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856472"
 name: Visual Studio LightSwitch 2011
 summary: >+
-  Visual Studio LightSwitch 2011 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Visual Studio LightSwitch 2011 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2011
   endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Link \n* [Lightswitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Aplikasi daya](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 adalah rilis terakhir dari Visual Studio yang mencakup tooling LightSwitch. Sebaiknya gunakan Microsoft PowerApps untuk pengembangan aplikasi baru."
+content: "\n## <a name=\"links\"></a>Tautan \n* [Lightswitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Aplikasi Daya](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 adalah rilis terakhir Visual Studio yang mencakup alat LightSwitch. Kami menyarankan untuk menggunakan Microsoft PowerApps untuk setiap pengembangan aplikasi baru."

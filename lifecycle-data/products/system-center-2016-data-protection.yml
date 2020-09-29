@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 2016 perlindungan data
-  description: System Center 2016 perlindungan data mengikuti kebijakan siklus hidup tetap.
+  title: Perlindungan Data System Center 2016
+  description: Perlindungan Data System Center 2016 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856644"
-name: System Center 2016 perlindungan data
+name: Perlindungan Data System Center 2016
 summary: >+
-  System Center 2016 perlindungan data mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Perlindungan Data System Center 2016 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>Link \n* [Informasi produk](/system-center/)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi Produk](/system-center/)"
