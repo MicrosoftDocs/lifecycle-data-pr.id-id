@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Keamanan Forefront untuk Office Communications Server
-  description: Forefront Security for Office Communications Server mengikuti kebijakan siklus hidup tetap.
+  title: Forefront Security untuk Office Communications Server
+  description: Forefront Security untuk Office Communications Server mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/21/2020
   ms.openlocfilehash: 5f0144e2e7f36644a959dccab8e1da4696e8c230
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908777"
-name: Keamanan Forefront untuk Office Communications Server
+name: Forefront Security untuk Office Communications Server
 summary: >+
-  Forefront Security for Office Communications Server mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Forefront Security untuk Office Communications Server mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 06/09/2009
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Peta strategi untuk produk keamanan di bawah merek Forefront telah berubah. Produk ini dihentikan pada 31 Desember 2015."
+content: "\n\n> [!NOTE]\n> Peta jalan untuk produk keamanan di bawah merek Forefront telah berubah.  Produk ini dihentikan pada tanggal 31 Desember 2015.\n\n\n"

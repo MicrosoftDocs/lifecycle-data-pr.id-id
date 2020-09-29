@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense perangkat keras komersial 1,0
-  description: PixelSense perangkat keras komersial 1,0 mengikuti kebijakan siklus hidup tetap.
+  title: PixelSense Commercial Hardware (Perangkat Keras Komersial PixelSense) 1.0
+  description: PixelSense Commercial Hardware 1.0 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/12/2020
   ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "894019"
-name: PixelSense perangkat keras komersial 1,0
+name: PixelSense Commercial Hardware (Perangkat Keras Komersial PixelSense) 1.0
 summary: >+
-  PixelSense perangkat keras komersial 1,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  PixelSense Commercial Hardware 1.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:

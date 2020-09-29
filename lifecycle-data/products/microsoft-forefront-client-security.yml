@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Keamanan klien Microsoft Forefront
-  description: Keamanan klien Microsoft Forefront mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Forefront Client Security
+  description: Microsoft Forefront Client Security mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924259"
-name: Keamanan klien Microsoft Forefront
+name: Microsoft Forefront Client Security
 summary: >+
-  Keamanan klien Microsoft Forefront mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Forefront Client Security mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Tautan \n* [Proteksi titik akhir System Center](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Keamanan klien Forefront telah dihentikan pada 14 Juli 2015. Pembaruan definisi antimalware dan antispyware tidak akan lagi tersedia setelah akhir dukungan untuk versi produk. Silakan mengevaluasi proteksi titik akhir System Center sebagai pengganti."
+content: "\n## <a name=\"links\"></a>Tautan \n* [System Center Endpoint Protection (Perlindungan Endpoint Pusat Sistem)](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security telah dihentikan per tanggal 14 Juli 2015. Pembaruan definisi Antimalware dan Antispyware tidak akan lagi tersedia setelah akhir masa dukungan untuk versi produknya. Mohon evaluasi System Center Endpoint Protection sebagai penggantinya."
