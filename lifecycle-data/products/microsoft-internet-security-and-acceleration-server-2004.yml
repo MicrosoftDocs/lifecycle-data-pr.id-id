@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Security and Acceleration Server 2004
-  description: Microsoft Internet Security and Acceleration Server 2004 mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Internet Security dan Acceleration Server 2004
+  description: Microsoft Internet Security dan Acceleration Server 2004 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933492"
-name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .\n\nBerlaku untuk edisi berikut ini: Enterprise, Standard\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+name: Microsoft Internet Security dan Acceleration Server 2004
+summary: "Microsoft Internet Security dan Acceleration Server 2004 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).\n\nBerlaku untuk edisi berikut ini: Enterprise, Standard\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
 products:
 - microsoft-servers
 policyType: fixed
