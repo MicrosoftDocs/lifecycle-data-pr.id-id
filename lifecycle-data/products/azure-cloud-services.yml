@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Layanan Cloud Azure
-  description: Layanan Cloud Azure mengikuti kebijakan siklus hidup modern.
+  title: Layanan Awan Azure
+  description: Layanan Awan Azure mengikuti Kebijakan Siklus Hidup Modern.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823793"
-name: Layanan Cloud Azure
+name: Layanan Awan Azure
 summary: >+
-  Layanan Cloud Azure mengikuti kebijakan siklus hidup [modern](/lifecycle/policies/modern) .
+  Layanan Awan Azure mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Link \n* [Azure Guest OS dukungan dan informasi kebijakan pensiun](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Daya dukung OS Tamu Azure dan informasi kebijakan pensiun](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

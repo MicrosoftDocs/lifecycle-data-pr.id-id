@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Belajar Essentials v 1.5 dengan SCORM
-  description: Learning Essentials v 1.5 dengan SCORM mengikuti kebijakan siklus hidup komponen.
+  title: Learning Essentials v1.5 dengan SCORM
+  description: Learning Essentials v1.5 dengan SCORM mengikuti Kebijakan Siklus Hidup Komponen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "823596"
-name: Belajar Essentials v 1.5 dengan SCORM
+name: Learning Essentials v1.5 dengan SCORM
 summary: >+
-  Learning Essentials v 1.5 dengan SCORM mengikuti kebijakan siklus hidup [komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Learning Essentials v1.5 dengan SCORM mengikuti Kebijakan Siklus Hidup [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

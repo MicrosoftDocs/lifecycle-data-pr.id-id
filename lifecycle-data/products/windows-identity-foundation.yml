@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dasar identitas Windows
-  description: Windows Identity Foundation mengikuti kebijakan siklus hidup tetap.
+  title: Windows Identity Foundation
+  description: Windows Identity Foundation mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
   ms.openlocfilehash: bf0feb07b0de728c2a1e19c8e9476a943719a6b6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "822859"
-name: Dasar identitas Windows
+name: Windows Identity Foundation
 summary: >+
-  Windows Identity Foundation mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Windows Identity Foundation mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
