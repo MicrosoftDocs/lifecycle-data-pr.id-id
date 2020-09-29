@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server Microsoft Class 3,0
-  description: Microsoft Class server 3,0 mengikuti kebijakan siklus hidup tetap.
+  title: Microsoft Class Server 3.0
+  description: Microsoft Class Server 3.0 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: id-ID
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934639"
-name: Server Microsoft Class 3,0
+name: Microsoft Class Server 3.0
 summary: >+
-  Microsoft Class server 3,0 mengikuti kebijakan siklus hidup [tetap](/lifecycle/policies/fixed) .
+  Microsoft Class Server 3.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
   Berlaku untuk edisi berikut ini: Standard
