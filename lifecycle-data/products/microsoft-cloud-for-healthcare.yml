@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Cloud untuk Healthcare
+  description: Microsoft Cloud untuk Healthcare mengikuti Kebijakan Siklus Hidup Modern.
+  ms.date: 10/28/2020
+  keywords: 
+  ms.openlocfilehash: 6c983fc065824794748a01a129446703df3ec1d5
+  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/29/2020
+  ms.locfileid: "1193462"
+name: Microsoft Cloud untuk Healthcare
+summary: >+
+  Microsoft Cloud untuk Healthcare mengikuti Kebijakan Siklus Hidup [Modern](/lifecycle/policies/modern).
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/28/2020
+releases:
+- version: Original Release
+  startDate: 10/28/2020
+content: "\n## <a name=\"links\"></a>Tautan \n* [Pelajari selengkapnya tentang Microsoft Cloud untuk Healthcare](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Mulai menggunakan Microsoft Cloud untuk Healthcare](/dynamics365/industry/healthcare/overview)"
