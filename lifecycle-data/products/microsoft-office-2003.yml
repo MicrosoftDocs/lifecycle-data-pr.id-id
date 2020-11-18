@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office 2003 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Basic, Professional, Professional Enterprise, Usaha Kecil, Standard, Pelajar dan Guru, Komponen Web
+  Berlaku untuk edisi berikut ini: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Dasar\n* Professional\n* Professional Enterprise\n* Usaha Kecil\n* Standard\n* Pelajar dan Guru\n* Komponen Web"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student and Teacher\n* Web Components"

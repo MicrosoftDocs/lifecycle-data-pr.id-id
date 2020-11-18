@@ -15,7 +15,7 @@ summary: >
   Visual Studio Team System 2008 mengikuti [Kebijakan Siklus Hidup Tetap](/lifecycle/policies/fixed).
 
 
-  Ini berlaku untuk edisi-edisi berikut: Semua, Arsitektur, Database, Pengembangan, Team Explorer, Team Test Load Agent, TFS
+  Ini berlaku untuk edisi-edisi berikut: Semua, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Panduan migrasi](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Semua\n* Arsitektur\n* Database\n* Pengembangan\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Panduan migrasi](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Semua\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"

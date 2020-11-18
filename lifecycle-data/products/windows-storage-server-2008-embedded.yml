@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Produk ini telah mencapai masa berakhirnya dukungan. Lihat di bawah untuk panduan migrasi.\n\n## <a name=\"editions\"></a>Edisi \n* 32 Bit\n* 64 Bit\n* Dasar\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Produk ini telah mencapai masa berakhirnya dukungan. Lihat di bawah untuk panduan migrasi.\n\n## <a name=\"editions\"></a>Edisi \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

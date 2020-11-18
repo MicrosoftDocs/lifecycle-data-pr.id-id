@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Klien\n* SDK\n* Server"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Client\n* SDK\n* Server"

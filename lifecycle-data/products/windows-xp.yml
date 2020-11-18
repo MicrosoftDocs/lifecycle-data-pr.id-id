@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tanggal mulai untuk Microsoft Windows XP Professional x64 Edition adalah 24 April 2005.\n\n## <a name=\"editions\"></a>Edisi \n* Rumah\n* Professional\n* Professional untuk Embedded Systems\n* Professional x64\n* Starter"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tanggal mulai untuk Microsoft Windows XP Professional x64 Edition adalah 24 April 2005.\n\n## <a name=\"editions\"></a>Edisi \n* Home\n* Professional\n* Professional untuk Embedded Systems\n* Professional x64\n* Starter"

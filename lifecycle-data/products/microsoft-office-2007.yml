@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office 2007 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Basic, Enterprise, Rumah dan Pelajar, Paket Multibahasa, Professional, Professional Plus, Small Business, Standard, Ultimate
+  Berlaku untuk edisi berikut ini: Basic, Enterprise, Home dan Student, Multi Language Pack, Professional, Professional Plus, Small Business, Standard, Ultimate
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Edisi \n* Dasar\n* Enterprise\n* Rumah dan Pelajar\n* Paket Multibahasa\n* Professional\n* Professional Plus\n* Usaha Kecil\n* Standard\n* Ultimate"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Edisi \n* Basic\n* Enterprise\n* Home and Student\n* Multi Language Pack\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"

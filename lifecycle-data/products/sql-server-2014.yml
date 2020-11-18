@@ -15,7 +15,7 @@ summary: >+
   SQL Server 2014 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Intelijen Bisnis, Pengembang, Enterprise, Enterprise Core, Express, Standard, Web
+  Berlaku untuk edisi berikut ini: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Intelijen Bisnis\n* Pengembang\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"
