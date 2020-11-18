@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Pengembang\n* Professional\n* Proofing Tools (Alat Pemeriksaan)\n* Standard\n* Komponen Web"
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Developer\n* Professional\n* Proofing Tools\n* Standard\n* Web Components"

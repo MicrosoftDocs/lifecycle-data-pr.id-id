@@ -15,7 +15,7 @@ summary: >+
   Microsoft Connected Services Framework 3.0 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Acara Bisnis Standar Penagihan, Penanganan Pesanan Acara Bisnis Standar, Server, Standar, Server Standar dengan Acara Bisnis Standar
+  Berlaku untuk edisi berikut ini: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server dengan Standard Business Events
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Acara Bisnis Standar Penagihan\n* Penanganan Pesanan Acara Bisnis Standar\n* Server\n* Standard\n* Standard Server dengan Acara Bisnis Standar"
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server with Standard Business Events"

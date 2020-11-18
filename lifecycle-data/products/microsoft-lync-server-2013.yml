@@ -15,7 +15,7 @@ summary: >+
   Microsoft Lync Server 2013 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Enterprise, Kit Pengembangan Perangkat Lunak Obrolan Persisten, Telepon, SDK, Standard
+  Berlaku untuk edisi berikut ini: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi produk](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Edisi Telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk Edisi Telepon Lync telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup Lync Server 2013.\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Kit Pengembangan Perangkat Lunak Obrolan Persisten\n* Telepon\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi produk](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Edisi Telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk Edisi Lync Phone telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup Lync Server 2013.\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"

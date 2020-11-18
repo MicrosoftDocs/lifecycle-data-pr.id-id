@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "937710"
 name: Microsoft SQL Server 2008 R2
 summary: >+
-  Microsoft SQL Server 2008 R2 mengikuti Kebijakan Siklus Hidup [Tetap ](/lifecycle/policies/fixed).
+  Microsoft SQL Server 2008 R2 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Datacenter, Pengembang, Enterprise, Express, Express dengan Layanan Lanjutan, untuk Embedded Systems, Standar, Edisi Standar untuk Usaha Kecil, Web, Workgroup
+  Berlaku untuk edisi berikut ini: Datacenter, Developer, Enterprise, Express, Express dengan Advanced Services, untuk Embedded Systems, Standard, Standard Edition untuk Small Business, Web, Workgroup
 
 products:
 - sql-server
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Tautan \n* [Opsi akhir dukungan SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Opsi akhir dukungan SQL Server 2008 dan Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Program Extended Security Update (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Extended Security Updates (ESU) tersedia untuk edisi Datacenter, Standar, Enterprise, dan Embedded dari produk ini, selama atau hingga tiga tahun tambahan setelah akhir masa dukungan.\n> [!NOTE]\n> Hanya untuk IA64, SP2 akan didukung hingga 7/9/2019. Lihat Blog Layanan Rilis SQL untuk informasi lebih lanjut.\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Pengembang\n* Enterprise\n* Express\n* Express dengan Layanan Lanjutan\n* untuk Embedded Systems\n* Standard\n* Edisi Standard untuk Usaha Kecil\n* Web\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Opsi akhir dukungan SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Opsi akhir dukungan SQL Server 2008 dan Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Program Extended Security Update (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Extended Security Updates (ESU) tersedia untuk edisi Datacenter, Standard, Enterprise, dan Embedded dari produk ini, selama atau hingga tiga tahun tambahan setelah akhir masa dukungan.\n> [!NOTE]\n> Hanya untuk IA64, SP2 akan didukung hingga 7/9/2019. Lihat Blog Layanan Rilis SQL untuk informasi lebih lanjut.\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express dengan Advanced Services\n* untuk Embedded Systems\n* Standard\n* Edisi Standard untuk Small Business\n* Web\n* Workgroup"

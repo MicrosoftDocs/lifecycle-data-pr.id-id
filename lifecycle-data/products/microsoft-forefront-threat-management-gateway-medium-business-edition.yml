@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Threat Management Gateway, Edisi Medium Business
-  description: Microsoft Forefront Threat Management Gateway, Medium Business Edition mengikuti Kebijakan Siklus Hidup Tetap.
+  description: Microsoft Forefront Threat Management Gateway, Edisi Medium Business mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/10/2020
   keywords: Business
   ms.openlocfilehash: 617a31241001b12abf13c658e47dbc6f0b1974a2
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1001911"
 name: Microsoft Forefront Threat Management Gateway, Edisi Medium Business
 summary: >+
-  Microsoft Forefront Threat Management Gateway, Medium Business Edition mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
+  Microsoft Forefront Threat Management Gateway, Edisi Medium Business mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
   Berlaku untuk edisi berikut: Business
