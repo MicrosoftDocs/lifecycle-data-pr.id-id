@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 mengikuti Kebijakan Siklus Hidup Komponen.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893650"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029509"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 mengikuti Kebijakan Siklus Hidup [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > Aplikasi desktop Internet Explorer (IE) 11 akan menghentikan dukungan untuk sistem operasi tertentu mulai 15 Juni 2022. Pelanggan didorong untuk beralih ke Microsoft Edge dengan mode IE. Mode IE memungkinkan kompatibilitas ke belakang dan akan didukung setidaknya hingga tahun 2029. Selain itu, Microsoft akan memberikan pemberitahuan satu tahun sebelum penghentian mode IE. Buka [di sini](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) untuk daftar sistem operasi yang didukung untuk Internet Explorer, termasuk versi yang terpengaruh oleh pengumuman ini.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pertanyaan Umum Kebijakan Siklus Hidup Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Mulai 12 Januari 2016, hanya versi terbaru Internet Explorer yang tersedia untuk sistem operasi yang didukung yang menerima dukungan teknis dan pembaruan keamanan."
+content: "\n\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pertanyaan Umum Siklus Hidup Internet Explorer/Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Sistem operasi yang didukung Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Sistem operasi yang didukung Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Beberapa versi Internet Explorer mungkin didukung setelah tanggal berakhirnya OS saat ESU (Extended Security Updates/Pembaruan Keamanan Diperpanjang) tersedia. Buka [di sini](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) untuk daftar ESU penawaran produk."

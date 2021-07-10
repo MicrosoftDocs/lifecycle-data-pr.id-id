@@ -2,20 +2,23 @@
 metadata:
   title: Windows 10 IoT 2019 LTSC
   description: Windows 10 IoT 2019 LTSC mengikuti Kebijakan Siklus Hidup Tetap.
-  ms.date: 09/01/2020
-  keywords: Core,Enterprise
-  ms.openlocfilehash: 14d9c6c53748361e9ab051381cfe36ea267968d9
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 06/08/2021
+  keywords: 
+  ms.openlocfilehash: 82df2d08ff2833c856ecc70b17b54c74c7003bc6
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938228"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029250"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
   Windows 10 IoT 2019 LTSC mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
+
   Berlaku untuk edisi berikut ini: Core, Enterprise
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Tautan \n* [Layanan Inti Windows 10 IoT](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Pembaruan Windows 10 pada bulan Oktober (versi1809) dirilis ulang pada 13 November 2018. Tanggal dukungan telah disesuaikan.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Pertanyaan Umum Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Saluran Pelayanan Jangka Panjang Windows 10\n\n## <a name=\"editions\"></a>Edisi \n* Inti\n* Enterprise"
+content: "\n\n## <a name=\"links\"></a>Tautan \n* [Pembaruan Windows 10 Oktober 2018](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Layanan Inti Windows 10 IoT](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Pertanyaan Umum Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n> [!NOTE]\n> LTSC = Saluran Pelayanan Jangka Panjang Windows 10\n\n\n## <a name=\"editions\"></a>Edisi \n* Inti\n* Enterprise"
