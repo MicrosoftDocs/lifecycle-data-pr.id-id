@@ -2,20 +2,20 @@
 metadata:
   title: Microsoft SQL Server 2008 R2
   description: Microsoft SQL Server 2008 R2 mengikuti Kebijakan Siklus Hidup Tetap.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Developer,Enterprise,Express,Express with Advanced Services,for Embedded Systems,Standard,Standard Edition for Small Business,Web,Workgroup
-  ms.openlocfilehash: 338c0e474c0c8f93d36dd3c165920ef49f89f4ec
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 04/23/2021
+  keywords: 
+  ms.openlocfilehash: d18b8ab6918149d81b686c3a63ac65441be3d37b
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937710"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2028917"
 name: Microsoft SQL Server 2008 R2
 summary: >+
-  Microsoft SQL Server 2008 R2 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
+  Microsoft SQL Server 2008 R2 mengikuti Kebijakan Siklus Hidup [Tetap ](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Datacenter, Developer, Enterprise, Express, Express dengan Advanced Services, untuk Embedded Systems, Standard, Standard Edition untuk Small Business, Web, Workgroup
+  Berlaku untuk edisi berikut ini: Datacenter, Pengembang, Enterprise, Express, Express dengan Layanan Lanjutan, untuk Embedded Systems, Standar, Edisi Standar untuk Usaha Kecil, Web, Workgroup
 
 products:
 - sql-server
@@ -25,6 +25,15 @@ supportDates:
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
+- version: Extended Security Update Year 3
+  startDate: 07/14/2021
+  endDate: 07/12/2022
+- version: Extended Security Update Year 2
+  startDate: 07/15/2020
+  endDate: 07/13/2021
+- version: Extended Security Update Year 1
+  startDate: 07/09/2019
+  endDate: 07/14/2020
 - version: Service Pack 3
   startDate: 07/07/2014
   endDate: 07/09/2019
@@ -37,4 +46,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Tautan \n* [Opsi akhir dukungan SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Opsi akhir dukungan SQL Server 2008 dan Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Program Extended Security Update (ESU)](/lifecycle/faq/extended-security-updates)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Extended Security Updates (ESU) tersedia untuk edisi Datacenter, Standard, Enterprise, dan Embedded dari produk ini, selama atau hingga tiga tahun tambahan setelah akhir masa dukungan.\n> [!NOTE]\n> Hanya untuk IA64, SP2 akan didukung hingga 7/9/2019. Lihat Blog Layanan Rilis SQL untuk informasi lebih lanjut.\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express dengan Advanced Services\n* untuk Embedded Systems\n* Standard\n* Edisi Standard untuk Small Business\n* Web\n* Workgroup"
+content: "> [!TIP]\n> Pembaruan Keamanan Diperpanjang (ESU, Extended Security Updates) tersedia untuk edisi Datacenter, Standard, Enterprise, dan Embedded dari produk ini, hingga tiga tahun tambahan setelah berakhirnya masa dukungan. Hubungi mitra atau tim akun Microsoft Anda untuk mempelajari lebih lanjut. \n\n## <a name=\"links\"></a>Tautan \n* [Opsi akhir dukungan SQL Server 2008 dan Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Akhir dukungan SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n* [Program Extended Security Update (ESU)](/lifecycle/faq/extended-security-updates)\n\n> [!NOTE]\n> Hanya untuk IA64, SP2 akan didukung hingga 7/9/2019. Lihat Blog Layanan Rilis SQL untuk informasi lebih lanjut.\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Pengembang\n* Enterprise\n* Express\n* Express dengan Layanan Lanjutan\n* untuk Embedded Systems\n* Standard\n* Edisi Standard untuk Usaha Kecil\n* Web\n* Workgroup"
