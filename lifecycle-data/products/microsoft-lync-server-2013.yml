@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Lync Server 2013 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
-  ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 34538d98f2544a37c43ef4db5cddf07502111f81f4329ffa7883322caae0df1d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930680"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498516"
 name: Microsoft Lync Server 2013
 summary: >+
   Microsoft Lync Server 2013 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
+  Berlaku untuk edisi berikut ini: Enterprise, Kit Pengembangan Perangkat Lunak Obrolan Persisten, Telepon, SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi produk](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Edisi Telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk Edisi Lync Phone telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup Lync Server 2013.\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi produk](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Edisi Telepon Lync didukung dengan Lync Server 2010 dan Lync Server 2013. Tanggal dukungan untuk Edisi Telepon Lync telah diperpanjang 2 tahun untuk menyesuaikan dengan siklus hidup Lync Server 2013.\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Kit Pengembangan Perangkat Lunak Obrolan Persisten\n* Telepon\n* SDK\n* Standard"
