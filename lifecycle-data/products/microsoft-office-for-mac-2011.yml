@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Office untuk Mac 2011 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
-  ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 56c5f61385cbdeddafe8571c1439650f85b73f42bcc23bc840f246af69bbe957
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933233"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524194"
 name: Microsoft Office untuk Mac 2011
 summary: >+
   Microsoft Office untuk Mac 2011 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
+  Berlaku untuk edisi berikut ini: Akademik, Rumah dan Bisnis, Program Penggunaan Rumah dan Rumah Bisnis, Rumah dan Pelajar, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan mainstream untuk Microsoft Office untuk Mac 2011 diperpanjang seperti yang ditunjukkan untuk menyediakan alur waktu transisi siklus hidup standar kepada semua pelanggan.\n\n## <a name=\"editions\"></a>Edisi \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Kebijakan paket layanan](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dukungan mainstream untuk Microsoft Office untuk Mac 2011 diperpanjang seperti yang ditunjukkan untuk menyediakan alur waktu transisi siklus hidup standar kepada semua pelanggan.\n\n## <a name=\"editions\"></a>Edisi \n* Akademik\n* Rumah dan Bisnis\n* Program Penggunaan Rumah dan Rumah Bisnis\n* Rumah dan Pelajar\n* Standard"
