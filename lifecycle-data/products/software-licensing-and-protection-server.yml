@@ -3,24 +3,32 @@ metadata:
   title: Server Lisensi dan Perlindungan Perangkat Lunak
   description: Server Lisensi dan Perlindungan Perangkat Lunak mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001060"
+  keywords: 'Enterprise,Standard'
 name: Server Lisensi dan Perlindungan Perangkat Lunak
-summary: "Server Lisensi dan Perlindungan Perangkat Lunak mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed). \n\nHal ini berlaku untuk edisi berikut: Enterprise, Standard\n\n> [!IMPORTANT]\n> Karena divestasi Server Lisensi dan Perlindungan Perangkat Lunak (SLPS), Microsoft mendukung SLPS hingga 24 September 2009.\n"
+summary: |
+  Server Lisensi dan Perlindungan Perangkat Lunak mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed). 
+
+  Hal ini berlaku untuk edisi berikut: Enterprise, Standard
+
+  > [!IMPORTANT]
+  > Karena divestasi Server Lisensi dan Perlindungan Perangkat Lunak (SLPS), Microsoft mendukung SLPS hingga 24 September 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Tautan \n* [Server Lisensi dan Perlindungan Perangkat Lunak (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Edisi \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Tautan 
+  * [Server Lisensi dan Perlindungan Perangkat Lunak (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Edisi 
+  * Enterprise
+  * Standard

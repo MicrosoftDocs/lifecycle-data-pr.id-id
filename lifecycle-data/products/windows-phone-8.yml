@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940869"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Microsoft akan membuat pembaruan tersedia untuk Sistem Operasi, termasuk pembaruan keamanan, selama minimum 36 bulan setelah tanggal dimulainya siklus hidup. Pembaruan ini akan bertahap, dengan setiap pembaruan yang dibuat di pembaruan yang sebelumnya. Pelanggan perlu menginstal setiap pembaruan agar tetap didukung. Distribusi pembaruan inkremental ini dapat dikontrol oleh operator seluler atau produsen ponsel tempat Anda membeli ponsel Anda, dan ponsel Anda harus sudah memiliki pembaruan sebelumnya. Pembaruan ketersediaan juga akan bervariasi berdasarkan kemampuan negara, wilayah, dan  perangkat keras."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft akan membuat pembaruan tersedia untuk Sistem Operasi, termasuk pembaruan keamanan, selama minimum 36 bulan setelah tanggal dimulainya siklus hidup. Pembaruan ini akan bertahap, dengan setiap pembaruan yang dibuat di pembaruan yang sebelumnya. Pelanggan perlu menginstal setiap pembaruan agar tetap didukung. Distribusi pembaruan inkremental ini dapat dikontrol oleh operator seluler atau produsen ponsel tempat Anda membeli ponsel Anda, dan ponsel Anda harus sudah memiliki pembaruan sebelumnya. Pembaruan ketersediaan juga akan bervariasi berdasarkan kemampuan negara, wilayah, dan  perangkat keras.
