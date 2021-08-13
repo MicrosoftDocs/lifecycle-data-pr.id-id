@@ -3,36 +3,36 @@ metadata:
   title: Windows Server 2008 for Windows Essential Server Solutions
   description: Windows Server 2008 untuk Windows Essential Server Solutions mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
-  keywords: Standard,without Hyper-V
-  ms.openlocfilehash: dd1f811a9e93cdfe97655a9cfd030cfffdbd1116
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939560"
+  keywords: 'Standard,without Hyper-V'
 name: Windows Server 2008 for Windows Essential Server Solutions
-summary: >
+summary: |
   Windows Server 2008 untuk Windows Essential Server Solutions mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
-
 
   Berlaku untuk edisi berikut ini: Standard, tanpa Hyper-V
 
-
   > [!IMPORTANT]
-
   > Dukungan untuk produk ini telah berakhir. Lihat panduan migrasi di bawah.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/18/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 02/18/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://aka.ms/AA1ovn4)\n* [Informasi produk](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Edisi \n* Standard\n* tanpa Hyper-V"
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 02/18/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Tautan 
+  * [Panduan migrasi](https://aka.ms/AA1ovn4)
+  * [Informasi produk](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)
+
+
+  ## <a name="editions"></a>Edisi 
+  * Standard
+  * tanpa Hyper-V
