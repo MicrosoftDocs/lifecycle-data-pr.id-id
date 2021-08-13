@@ -3,26 +3,24 @@ metadata:
   title: Agen Penyebaran Microsoft 2013
   description: Microsoft Deployment Agent 2013 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856361"
 name: Agen Penyebaran Microsoft 2013
-summary: >+
+summary: |+
   Microsoft Deployment Agent 2013 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 01/15/2014
   end: 04/09/2019
   extendedEnd: 04/09/2024
 releases:
-- version: Original Release
-  startDate: 01/15/2014
-  endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> Untuk Deployment Agent 2013, Update 4 akan didukung berdasarkan panduan kebijakan hingga 9/4/2024."
+  - version: Original Release
+    startDate: 01/15/2014
+    endDate: 04/09/2024
+content: |+
+
+
+  > [!NOTE]
+  > Untuk Deployment Agent 2013, Update 4 akan didukung berdasarkan panduan kebijakan hingga 9/4/2024.

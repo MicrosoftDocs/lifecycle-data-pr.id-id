@@ -3,26 +3,26 @@ metadata:
   title: Hyper-V Server 2019
   description: Hyper-V Server 2019 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6ba8930e824f29ea98cb30ad9291ac18b0834221
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870111"
 name: Hyper-V Server 2019
-summary: >+
+summary: |+
   Hyper-V Server 2019 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/13/2018
   end: 01/09/2024
   extendedEnd: 01/09/2029
 releases:
-- version: Original Release
-  startDate: 11/13/2018
-  endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Tautan \n* [Komunitas Windows Server](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 dan Windows Server, versi 1809 dirilis ulang pada 13 November 2018. Tanggal dukungan telah disesuaikan."
+  - version: Original Release
+    startDate: 11/13/2018
+    endDate: 01/09/2029
+content: |+
+
+  ## <a name="links"></a>Tautan 
+  * [Komunitas Windows Server](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)
+
+  > [!NOTE]
+  > Windows Server 2019 dan Windows Server, versi 1809 dirilis ulang pada 13 November 2018. Tanggal dukungan telah disesuaikan.
