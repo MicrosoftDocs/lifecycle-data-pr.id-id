@@ -4,23 +4,30 @@ metadata:
   description: Microsoft Office Communicator 2007 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: dbb46e37a768b34dd9240524f45723daa498f825
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001689"
 name: Microsoft Office Communicator 2007
-summary: "Microsoft Office Communicator 2007 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).\n\nBerlaku untuk edisi berikut ini: Standard\n\n> [!IMPORTANT]\n> Dukungan untuk produk ini telah berakhir. \n"
+summary: |
+  Microsoft Office Communicator 2007 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
+
+  Berlaku untuk edisi berikut ini: Standard
+
+  > [!IMPORTANT]
+  > Dukungan untuk produk ini telah berakhir. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/27/2007
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 10/27/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Edisi \n* Standard"
+  - version: Original Release
+    startDate: 10/27/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Tautan 
+  * [Panduan migrasi](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Edisi 
+  * Standard
