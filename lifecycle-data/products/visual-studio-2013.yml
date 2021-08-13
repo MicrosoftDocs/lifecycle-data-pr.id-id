@@ -4,18 +4,18 @@ metadata:
   description: Visual Studio 2013 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
   keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 9ca8bc78f1d498f79dcc1f3ed3f3c30403310ff2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937451"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487194"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
-  Berlaku untuk edisi berikut ini: Agents, Semua, Community, Express untuk Web, Express untuk Windows, Express untuk Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Terintegrasi), Shell (Terisolasi), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+  Berlaku untuk edisi berikut ini: Agents, Semua, Komunitas, Express untuk Web, Express untuk Windows, Express untuk Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Terintegrasi), Shell (Terisolasi), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi pelayanan](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Agents\n* Semua\n* Community\n* Express untuk Web\n* Express untuk Windows\n* Express untuk Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (Terintegrasi)\n* Shell (Terisolasi)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
+content: "\n## <a name=\"links\"></a>Tautan \n* [Informasi pelayanan](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edisi \n* Agents\n* Semua\n* Community\n* Express untuk Web\n* Express untuk Windows\n* Express untuk Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Perangkat Jarak Jauh\n* SDK\n* Shell (Terintegrasi)\n* Shell (Terisolasi)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
