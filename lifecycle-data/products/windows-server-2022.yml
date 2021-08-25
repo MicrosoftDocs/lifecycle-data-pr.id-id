@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2022
+  description: Windows Server 2022 mengikuti Kebijakan Siklus Hidup Tetap.
+  ms.date: 08/18/2021
+  keywords: 
+  ms.openlocfilehash: 32226dfdd93a7e21da11c1c6583ef0cd69687152
+  ms.sourcegitcommit: adfeeb1650d45b759b26479162bbe0ed43a82099
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "3102591"
+name: Windows Server 2022
+summary: >+
+  Windows Server 2022 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
+
+
+
+  Berlaku untuk edisi berikut ini: Datacenter, Datacenter: Edisi Azure, Standard
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup - Windows](/lifecycle/faq/windows)\n* [Informasi produk](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Datacenter: Edisi Azure\n* Standard"
