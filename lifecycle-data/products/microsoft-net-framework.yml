@@ -2,23 +2,26 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework mengikuti Kebijakan Siklus Hidup Komponen.
-  ms.date: 04/26/2021
+  ms.date: 09/13/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: 8d6d645959c8da911aa7dead4718fb998116c8481890468df0f552c9edd8bd9a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f49285dd25e5227b9903b04ab1a7e82f720a3233
+  ms.sourcegitcommit: 997d3fcd1eb2b32835a349b558316fb0ae245510
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489562"
+  ms.lasthandoff: 09/15/2021
+  ms.locfileid: "3452631"
 name: Microsoft .NET Framework
-summary: >
+summary: >+
   Microsoft .NET Framework mengikuti Kebijakan Siklus Hidup [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
   > .NET Framework 4.5.2, 4.6, dan 4.6.1 akan dihentikan pada 26 April 2022. Pengumuman khusus ini sebelumnya ditandatangani secara digital menggunakan sertifikat Secure Hash Algorithm (SHA-1). Algoritme ini tidak lagi dianggap aman. Pelanggan didorong untuk pindah ke SHA-2. Buka [di sini](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022) untuk mempelajari selengkapnya.
+
 products:
 - dotnet
 policyType: component
@@ -50,6 +53,9 @@ releases:
 - version: .NET Framework 4.5
   startDate: 10/09/2012
   endDate: 01/12/2016
+- version: .NET Framework 4.0
+  startDate: 04/12/2010
+  endDate: 01/12/2016
 - version: .NET Framework 3.5 Service Pack 1
   startDate: 11/19/2007
   endDate: 01/09/2029
@@ -59,4 +65,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informasi produk](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework akan menghentikan versi 4.5.2, 4.6, 4,61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 Paket Layanan 1 (SP1) adalah produk mandiri setelah Kebijakan Tetap, dimulai dengan Windows 10 versi 1809 dan Windows Server 2019. Sebelum ini, .NET Framework 3.5 SP1 dianggap sebagai komponen dari sistem operasi Windows tempat program tersebut diinstal."
+content: "\n\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informasi produk](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework akan menghentikan versi 4.5.2, 4.6, 4,61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n\n> [!NOTE]\n> .NET Framework 3.5 Paket Layanan 1 (SP1) adalah produk mandiri setelah Kebijakan Tetap, dimulai dengan Windows 10 versi 1809 dan Windows Server 2019. Sebelum ini, .NET Framework 3.5 SP1 dianggap sebagai komponen dari sistem operasi Windows tempat program tersebut diinstal."
