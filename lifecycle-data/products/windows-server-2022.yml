@@ -2,21 +2,21 @@
 metadata:
   title: Windows Server 2022
   description: Windows Server 2022 mengikuti Kebijakan Siklus Hidup Tetap.
-  ms.date: 08/31/2021
+  ms.date: 09/23/2021
   keywords: 
-  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
-  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
+  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "3173040"
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508020"
 name: Windows Server 2022
 summary: >+
   Windows Server 2022 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
 
 
-  Berlaku untuk edisi berikut ini: Datacenter, Datacenter: Edisi Azure, Standard
+  Ini berlaku untuk edisi berikut: Datacenter, Datacenter: Azure Edition, Essentials, Standard
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup - Windows](/lifecycle/faq/windows)\n* [Informasi produk](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Kontainer yang dirilis dengan Windows Server 2022 mengikuti tanggal siklus hidup yang sama. \n\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Datacenter: Edisi Azure\n* Standard"
+content: "> [!TIP]\n> Microsoft Edge mengikuti [Kebijakan Siklus Hidup Modern](https://docs.microsoft.com/lifecycle/policies/modern). Silakan lihat [dokumentasi siklus hidup Edge](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) untuk mengetahui cara menjaga browser ini tetap diperbarui dan didukung.\n\n\n## <a name=\"links\"></a>Tautan \n* [Pertanyaan Umum Siklus Hidup - Windows](/lifecycle/faq/windows)\n* [Informasi produk](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Kontainer yang dirilis dengan Windows Server 2022 mengikuti tanggal siklus hidup yang sama. \n\n\n## <a name=\"editions\"></a>Edisi \n* Datacenter\n* Datacenter: Edisi Azure\n* Essentials\n* Standard"
