@@ -2,48 +2,36 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 mengikuti Kebijakan Siklus Hidup Tetap.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 1026f138c847797213d0bb84b3df630e5c338f99
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509217"
 name: Visual Studio 2017
-summary: |+
+summary: >+
   Visual Studio 2017 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
 
-  Ini berlaku untuk edisi berikut: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, untuk Mac, IntelliTrace Standalone Collector, Alat Kinerja, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C ++ Redistributable
+
+
+  Berlaku untuk edisi berikut ini: Community, Enterprise, Professional, dan Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-  - version: Version 15.9
-    startDate: 11/13/2018
-    endDate: 04/13/2027
-  - version: Version 15.0
-    startDate: 03/07/2017
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Tautan 
-  * [Pengumuman](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
-  * [Informasi pelayanan](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
-
-
-  ## <a name="editions"></a>Edisi 
-  * Agents
-  * Perangkat Pembangun
-  * Community
-  * Enterprise
-  * ESM
-  * Feedback Client
-  * untuk Mac
-  * IntelliTrace Standalone Collector
-  * Perangkat Kinerja
-  * Professional
-  * PSM
-  * Perangkat Jarak Jauh
-  * Team Explorer
-  * Test Professional
-  * Visual C++ Redistributable
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n\n## <a name=\"links\"></a>Tautan \n* [Pengumuman blog Visual Studio](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informasi pelayanan](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n* [Halaman unduh Visual Studio 2017](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017)\n* [Catatan rilis Visual Studio 2017](/visualstudio/releasenotes/vs2017-relnotes)\n\n\n> [!NOTE]\n> Versi Visual Studio 2017 dari komponen berikut dikirim dengan dan didukung sebagai bagian dari siklus hidup Visual Studio 2017: Agents, Build Tools, ESM, Feedback Client, IntelliTrace Standalone Collector, Performance Tools, PSM, Remote Tools, Team Explorer, dan Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Edisi \n* Community\n* Enterprise\n* Professional\n* Test Professional"
