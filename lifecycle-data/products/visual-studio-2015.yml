@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 mengikuti Kebijakan Siklus Hidup Tetap.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 1e07a427245d7d9fd41ca9628cdacdaf1d888241
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509291"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514197"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n\n## <a name=\"links\"></a>Tautan \n* [Informasi layanan untuk versi Visual Studio yang lebih lama](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [Kebijakan Service Pack](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Versi Visual Studio 2015 dari komponen berikut dikirim dengan dan didukung sebagai bagian dari siklus hidup Visual Studio 2015: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (Terintegrasi), Shell (Terisolasi), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Edisi \n* Community\n* Enterprise\n* Express untuk Web\n* Express untuk Windows 10\n* Express untuk Windows Desktop\n* Professional\n* Release Management\n* Test Professional"
+content: "\n\n## <a name=\"links\"></a>Tautan \n* [Informasi layanan untuk versi Visual Studio yang lebih lama](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Versi Visual Studio 2015 dari komponen berikut dikirim dengan dan didukung sebagai bagian dari siklus hidup Visual Studio 2015: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (Terintegrasi), Shell (Terisolasi), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Edisi \n* Community\n* Enterprise\n* Express untuk Web\n* Express untuk Windows 10\n* Express untuk Windows Desktop\n* Professional\n* Release Management\n* Test Professional"
