@@ -3,32 +3,26 @@ metadata:
   title: Microsoft Mediaroom
   description: Microsoft Mediaroom mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
-  keywords: 'Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1'
+  keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
+  ms.openlocfilehash: afcf982957d8e6ecda62488ad4f6a6716fd5cc3e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107492"
 name: Microsoft Mediaroom
-summary: |+
+summary: >+
   Microsoft Mediaroom mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
+
 
   Berlaku untuk edisi berikut ini: Application Services (Layanan Aplikasi) 1.0, Client 2.0, Client 2.1, Server 2.0, Server 2.1
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 08/03/2010
+  start: 2010-08-03T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 08/03/2010
-content: |
-
-
-  > [!NOTE]
-  > Ericsson mengakuisisi produk-produk Microsoft Mediaroom pada tahun 2013. Untuk informasi selengkapnya, silakan lihat [rilis press](http://www.ericsson.com/news/1691160). Untuk pelanggan yang membutuhkan dukungan, silakan klik [di sini](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx). 
-  > [!NOTE]
-  > Microsoft Mediaroom Client 2.1 dirilis pada tanggal 27 Desember 2011. 
-
-  ## <a name="editions"></a>Edisi 
-  * Application Services (Layanan Aplikasi) 1.0
-  * Client 2.0
-  * Client 2.1
-  * Server 2.0
-  * Server 2.1
+- version: Original Release
+  startDate: 2010-08-03T00:00:00.000-08:00
+content: "\n\n> [!NOTE]\n> Ericsson mengakuisisi produk-produk Microsoft Mediaroom pada tahun 2013. Untuk informasi selengkapnya, silakan lihat [rilis press](http://www.ericsson.com/news/1691160). Untuk pelanggan yang membutuhkan dukungan, silakan klik [di sini](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx). \n> [!NOTE]\n> Microsoft Mediaroom Client 2.1 dirilis pada tanggal 27 Desember 2011. \n\n## <a name=\"editions\"></a>Edisi \n* Application Services (Layanan Aplikasi) 1.0\n* Client 2.0\n* Client 2.1\n* Server 2.0\n* Server 2.1"
