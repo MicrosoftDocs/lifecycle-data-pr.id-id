@@ -1,13 +1,13 @@
 ---
 title: Akhir Dukungan Produk untuk tahun 2016
 description: Cari tahu produk mana yang akan dihentikan, mencapai akhir dukungan, atau beralih dari dukungan mainstream ke dukungan diperpanjang pada tahun 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028908"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117556"
 ---
 # <a name="products-ending-support-in-2016"></a>Dukungan Pengakhiran Produk pada tahun 2016
 
@@ -20,13 +20,6 @@ Jika Anda memiliki pertanyaan mengenai dukungan untuk suatu produk, hubungi Perw
 
 
 
-## <a name="release-end-of-servicing"></a>Rilis Akhir Layanan
-
-Rilis produk berikut ini yang diatur oleh [Kebijakan Modern](/lifecycle/policies/modern), akan mengakhiri dukungannya pada tahun 2016.
-
-| Produk | Akhir Layanan |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, Versi 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Kamis, 08 Desember 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produk mendekati Akhir Dukungan

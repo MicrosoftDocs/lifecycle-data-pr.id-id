@@ -3,24 +3,23 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 mengikuti Kebijakan Siklus Hidup Komponen.
   ms.date: 08/12/2020
+  ms.openlocfilehash: f61f077fd1b92fb7ef960ad2fa68e6ac1ebdb88c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154371"
 name: Internet Explorer 9
-summary: |+
+summary: >+
   Internet Explorer 9 mengikuti Kebijakan Siklus Hidup [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 03/15/2011
+  start: 2011-03-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/15/2011
-content: |+
-
-  ## <a name="links"></a>Tautan 
-  * [Panduan migrasi](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Pertanyaan Umum Kebijakan Siklus Hidup Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Mulai 12 Januari 2016, hanya versi terbaru Internet Explorer yang tersedia untuk sistem operasi yang didukung yang menerima dukungan teknis dan pembaruan keamanan.
+- version: Original Release
+  startDate: 2011-03-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Tautan \n* [Panduan migrasi](https://www.microsoft.com/itpro/microsoft-edge)\n* [Pertanyaan Umum Kebijakan Siklus Hidup Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Mulai 12 Januari 2016, hanya versi terbaru Internet Explorer yang tersedia untuk sistem operasi yang didukung yang menerima dukungan teknis dan pembaruan keamanan."

@@ -3,29 +3,28 @@ metadata:
   title: Microsoft Office 2019 untuk Mac
   description: Microsoft Office 2019 untuk Mac mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/01/2020
-  keywords: 'Academic,Home and Business,Home and Student,Standard'
+  keywords: Academic,Home and Business,Home and Student,Standard
+  ms.openlocfilehash: c48992e8a23900c03aa26c28630031eb1fbf3954
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107085"
 name: Microsoft Office 2019 untuk Mac
-summary: |+
+summary: >+
   Microsoft Office 2019 untuk Mac mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
+
 
   Ini berlaku untuk edisi berikut: Academic, Home dan Business, Home dan Student, Standard
 
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/24/2018
-  end: 10/10/2023
+  start: 2018-09-24T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/24/2018
-    endDate: 10/10/2023
-content: |
-
-
-
-  ## <a name="editions"></a>Edisi 
-  * Akademik
-  * Rumah dan Bisnis
-  * Rumah dan Pelajar
-  * Standard
+- version: Original Release
+  startDate: 2018-09-24T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Edisi \n* Akademik\n* Rumah dan Bisnis\n* Rumah dan Pelajar\n* Standard"

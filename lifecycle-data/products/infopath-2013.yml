@@ -4,30 +4,28 @@ metadata:
   description: Infopath 2013 mengikuti Kebijakan Siklus Hidup Tetap.
   ms.date: 09/10/2020
   keywords: Standard
+  ms.openlocfilehash: 809eeab7d95bf084c4392825aac93cf82151f317
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4146897"
 name: Infopath 2013
-summary: |+
+summary: >+
   Infopath 2013 mengikuti Kebijakan Siklus Hidup [Tetap](/lifecycle/policies/fixed).
+
 
   Berlaku untuk edisi berikut ini: Standard
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 01/09/2013
-  end: 07/13/2021
-  extendedEnd: 07/14/2026
+  start: 2013-01-09T00:00:00.000-08:00
+  end: 2021-07-13T22:59:59.999-08:00
+  extendedEnd: 2026-07-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/09/2013
-    endDate: 07/14/2026
-content: |
-
-  ## <a name="links"></a>Tautan 
-  * [Detail dukungan](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
-
-  > [!NOTE]
-  > Dukungan untuk Microsoft InfoPath 2013 diperpanjang seperti yang ditunjukkan untuk memastikan kompatibilitas dengan SharePoint Server 2016.
-
-  ## <a name="editions"></a>Edisi 
-  * Standard
+- version: Original Release
+  startDate: 2013-01-09T00:00:00.000-08:00
+  endDate: 2026-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Tautan \n* [Detail dukungan](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Dukungan untuk Microsoft InfoPath 2013 diperpanjang seperti yang ditunjukkan untuk memastikan kompatibilitas dengan SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Edisi \n* Standard"
