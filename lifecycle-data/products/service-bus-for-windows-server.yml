@@ -2,22 +2,26 @@
 metadata:
   title: Bus Layanan untuk Windows Server
   description: Service Bus untuk Windows Server mengikuti Kebijakan Siklus Hidup Komponen.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147637"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518826"
 name: Bus Layanan untuk Windows Server
-summary: >
+summary: >+
   Service Bus untuk Windows Server mengikuti Kebijakan Siklus Hidup [Komponen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Ketika Service Bus 1.1 adalah komponen dari SharePoint Server 2016 atau SharePoint Server 2013, itu akan didukung sesuai tanggal akhir dukungan dari versi SharePoint Server tersebut.
+  > Service Bus 1.1 adalah komponen Edisi Berlangganan SharePoint Server, SharePoint Server 2019, SharePoint Server 2016, dan SharePoint Server 2013, dan mengikuti siklus hidup produk induknya.
+
 products:
 - windows
 policyType: component

@@ -1,13 +1,13 @@
 ---
 title: Akhir Dukungan Produk untuk tahun 2018
 description: Cari tahu produk mana yang akan dihentikan, mencapai akhir dukungan, atau beralih dari dukungan mainstream ke dukungan diperpanjang pada tahun 2018.
-ms.date: 09/17/2021
-ms.openlocfilehash: ef79682a4e68c31ab569281f438557d6d71b11ea
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 657bdb28ba9fa0c5151cb9a394d9ade3af39a2b3
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028749"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518271"
 ---
 # <a name="products-ending-support-in-2018"></a>Dukungan Pengakhiran Produk pada tahun 2018
 

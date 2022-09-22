@@ -1,13 +1,13 @@
 ---
 title: Akhir Dukungan Produk untuk tahun 2014
 description: Cari tahu produk mana yang akan dihentikan, mencapai akhir dukungan, atau beralih dari dukungan mainstream ke dukungan diperpanjang pada tahun 2014.
-ms.date: 08/11/2021
-ms.openlocfilehash: 6dede11fc813825dd096d7fbfa49e6c25ad15b9d
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 07/26/2022
+ms.openlocfilehash: 1a767b8ab82e08e49e07aac1d60e0b2eff42f412
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028589"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518345"
 ---
 # <a name="products-ending-support-in-2014"></a>Dukungan Pengakhiran Produk pada tahun 2014
 
