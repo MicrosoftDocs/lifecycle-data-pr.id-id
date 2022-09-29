@@ -1,13 +1,13 @@
 ---
 title: Akhir Dukungan Produk untuk tahun 2024
 description: Cari tahu produk mana yang akan dihentikan, mencapai akhir dukungan, atau beralih dari dukungan mainstream ke dukungan diperpanjang pada tahun 2024.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518114"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526944"
 ---
 # <a name="products-ending-support-in-2024"></a>Dukungan Pengakhiran Produk pada tahun 2024
 
@@ -34,8 +34,10 @@ Rilis produk berikut diatur oleh [Kebijakan Modern](/lifecycle/policies/modern),
 
 | Produk | Akhir Layanan |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, Versi 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Senin, 12 Februari 2024 |
 | [Windows 10 Enterprise dan Education, Versi 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Versi 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | Selasa, 11 Juni 2024 |
-| [Windows 11 Enterprise dan Education (Versi 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (Versi 21H2), Rilis asli (Versi 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 Oktober 2024 |
+| [Windows 11 Enterprise dan Education, Versi 21H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, Versi 21H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8 Oktober 2024 |
+| [Windows 11 Home dan Pro, Versi 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | Senin, 14 Oktober 2024 |
 | [PowerShell, PowerShell 7.2 (LTS-current)](/lifecycle/products/powershell?branch=live)<br> | Jumat, 08 Nopember 2024 |
 | [Azure IoT Edge, Versi 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | Selasa, 12 Nopember 2024 |
 

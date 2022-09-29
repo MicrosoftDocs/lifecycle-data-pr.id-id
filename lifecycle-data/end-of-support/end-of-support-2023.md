@@ -1,13 +1,13 @@
 ---
 title: Akhir Dukungan Produk untuk tahun 2023
 description: Cari tahu produk mana yang akan dihentikan, mencapai akhir dukungan, atau beralih dari dukungan mainstream ke dukungan diperpanjang pada tahun 2023.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521062"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526870"
 ---
 # <a name="products-ending-support-in-2023"></a>Dukungan Pengakhiran Produk pada tahun 2023
 
@@ -36,13 +36,12 @@ Rilis produk berikut yang diatur oleh [Kebijakan Modern](/lifecycle/policies/mod
 | Produk | Akhir Layanan |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager Versi 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Kamis, 02 Februari 2023 |
-| [Microsoft Endpoint Configuration Manager, Versi 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Minggu, 12 Februari 2023 |
 | [Dynamics 365 Business Central lokal (Kebijakan Modern), rilis 2021 gelombang 2, versi 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | Rabu, 12 April 2023 |
 | [Windows 10 Enterprise dan Education, Versi 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Versi 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 9 Mei 2023 |
 | [Microsoft Endpoint Configuration Manager, Versi 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Kamis, 01 Juni 2023 |
 | [Windows 10 Home dan Pro, Versi 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | Selasa, 13 Juni 2023 |
 | [Microsoft Endpoint Configuration Manager, Versi 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Jumat, 06 Oktober 2023 |
-| [Dynamics 365 Business Central lokal (Kebijakan Modern), rilis 2022 gelombang 1, versi 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home dan Pro (Versi 21H2), Rilis asli (Versi 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10 Oktober 2023 |
+| [Dynamics 365 Business Central lokal (Kebijakan Modern), rilis 2022 gelombang 1, versi 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home dan Pro, Versi 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10 Oktober 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produk mendekati Akhir Dukungan
